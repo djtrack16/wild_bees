@@ -1,0 +1,808 @@
+{
+  "collection_date": "2025-11-28T15:24:18.240892",
+  "total_species": 50,
+  "species": [
+    {
+      "scientific_name": "Bombus pensylvanicus",
+      "common_name": "American Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 56887,
+      "observations_count": 57683,
+      "most_recent_observation": {
+        "date": "2025-11-26",
+        "location": "Texas, US",
+        "latitude": "29.9553316623",
+        "longitude": "-95.4446269401",
+        "observer": "jojo-garden876",
+        "url": "https://www.inaturalist.org/observations/328388657"
+      }
+    },
+    {
+      "scientific_name": "Bombus sonorus",
+      "common_name": "Sonoran Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": null,
+      "inat_status": "VU",
+      "inat_taxon_id": 57690,
+      "observations_count": 16734,
+      "most_recent_observation": {
+        "date": "2025-11-27",
+        "location": "North Mountain Park, Phoenix, AZ, US",
+        "latitude": "33.5946818605",
+        "longitude": "-112.0831256113",
+        "observer": "rocketrosy",
+        "url": "https://www.inaturalist.org/observations/328537606"
+      }
+    },
+    {
+      "scientific_name": "Bombus fervidus",
+      "common_name": "Golden Northern Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 52774,
+      "observations_count": 13178,
+      "most_recent_observation": {
+        "date": "2025-10-23",
+        "location": "Hudson Hill, Bronx, NY 10471, USA",
+        "latitude": "40.8983789997",
+        "longitude": "-73.9121001997",
+        "observer": "jess_brey",
+        "url": "https://www.inaturalist.org/observations/322758181"
+      }
+    },
+    {
+      "scientific_name": "Bombus terricola",
+      "common_name": "Yellow-banded Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 121517,
+      "observations_count": 7430,
+      "most_recent_observation": {
+        "date": "2025-10-13",
+        "location": "Ottawa, CA-ON, CA",
+        "latitude": "45.2672250372",
+        "longitude": "-75.9698078382",
+        "observer": "s14420",
+        "url": "https://www.inaturalist.org/observations/320693123"
+      }
+    },
+    {
+      "scientific_name": "Bombus affinis",
+      "common_name": "Rusty-patched Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "EN",
+      "inat_status": "endangered",
+      "inat_taxon_id": 121519,
+      "observations_count": 5286,
+      "most_recent_observation": {
+        "date": "2025-10-17",
+        "location": "Minnesota, US",
+        "latitude": "44.8388551874",
+        "longitude": "-93.7998072551",
+        "observer": "mistyfox28",
+        "url": "https://www.inaturalist.org/observations/321468065"
+      }
+    },
+    {
+      "scientific_name": "Bombus fraternus",
+      "common_name": "Southern Plains Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "EN",
+      "inat_status": "endangered",
+      "inat_taxon_id": 308937,
+      "observations_count": 3037,
+      "most_recent_observation": {
+        "date": "2025-11-11",
+        "location": "Eddy-Gatesville Pkwy, Moody, TX, US",
+        "latitude": "31.318455",
+        "longitude": "-97.3863966667",
+        "observer": "eoune808",
+        "url": "https://www.inaturalist.org/observations/326062714"
+      }
+    },
+    {
+      "scientific_name": "Bombus crotchii",
+      "common_name": "Crotch's Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "EN",
+      "inat_status": "endangered",
+      "inat_taxon_id": 271451,
+      "observations_count": 2899,
+      "most_recent_observation": {
+        "date": "2025-11-10",
+        "location": "Old Chimney Rd, Sierra City, CA, US",
+        "latitude": "39.6119533333",
+        "longitude": "-120.5958866667",
+        "observer": "alan2c",
+        "url": "https://www.inaturalist.org/observations/326030439"
+      }
+    },
+    {
+      "scientific_name": "Bombus appositus",
+      "common_name": "White-shouldered Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 320050,
+      "observations_count": 2373,
+      "most_recent_observation": {
+        "date": "2025-10-03",
+        "location": "Kimberley, BC V1A 0A4, Canada",
+        "latitude": "49.6407083333",
+        "longitude": "-115.9735305556",
+        "observer": "troller",
+        "url": "https://www.inaturalist.org/observations/318515317"
+      }
+    },
+    {
+      "scientific_name": "Bombus occidentalis",
+      "common_name": "Western Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 82371,
+      "observations_count": 2285,
+      "most_recent_observation": {
+        "date": "2025-10-10",
+        "location": "Colorado, US",
+        "latitude": "38.8636937003",
+        "longitude": "-104.992820691",
+        "observer": "gracegardensgirl",
+        "url": "https://www.inaturalist.org/observations/320034535"
+      }
+    },
+    {
+      "scientific_name": "Bombus dahlbomii",
+      "common_name": "Giant Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "EN",
+      "inat_status": "endangered",
+      "inat_taxon_id": 497142,
+      "observations_count": 1494,
+      "most_recent_observation": {
+        "date": "2025-11-26",
+        "location": "Cautín, CL-AR, CL",
+        "latitude": "-39.2424837652",
+        "longitude": "-72.3069879889",
+        "observer": "bioexplorando",
+        "url": "https://www.inaturalist.org/observations/328409872"
+      }
+    },
+    {
+      "scientific_name": "Bombus morrisoni",
+      "common_name": "Morrison's Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 324278,
+      "observations_count": 1331,
+      "most_recent_observation": {
+        "date": "2025-11-22",
+        "location": "Boundary Peak St, Carson City, NV, US",
+        "latitude": "39.1639946716",
+        "longitude": "-119.7481857131",
+        "observer": "sabrandot",
+        "url": "https://www.inaturalist.org/observations/327730055"
+      }
+    },
+    {
+      "scientific_name": "Bombus muscorum",
+      "common_name": "Moss Carder bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 325997,
+      "observations_count": 1215,
+      "most_recent_observation": {
+        "date": "2025-11-14",
+        "location": "Piste, 31400 Toulouse, France",
+        "latitude": "43.5706611",
+        "longitude": "1.4800791",
+        "observer": "axelver",
+        "url": "https://www.inaturalist.org/observations/327493790"
+      }
+    },
+    {
+      "scientific_name": "Bombus medius",
+      "common_name": "Middle-striped Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 308935,
+      "observations_count": 747,
+      "most_recent_observation": {
+        "date": "2025-11-26",
+        "location": "Veracruz, MX",
+        "latitude": "19.5830157622",
+        "longitude": "-96.8547986355",
+        "observer": "rafailito",
+        "url": "https://www.inaturalist.org/observations/328481235"
+      }
+    },
+    {
+      "scientific_name": "Bombus caliginosus",
+      "common_name": "Fog-belt Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": null,
+      "inat_status": "imperiled",
+      "inat_taxon_id": 344228,
+      "observations_count": 418,
+      "most_recent_observation": {
+        "date": "2025-11-23",
+        "location": "Via Concha Rd, Nipomo, CA, US",
+        "latitude": "35.029525",
+        "longitude": "-120.5531616667",
+        "observer": "noiselessowl",
+        "url": "https://www.inaturalist.org/observations/327959486"
+      }
+    },
+    {
+      "scientific_name": "Eucera gracilipes",
+      "common_name": "Slender-legged Longhorn",
+      "family": "Apidae",
+      "iucn_status": "NT",
+      "inat_status": "near threatened",
+      "inat_taxon_id": 433654,
+      "observations_count": 318,
+      "most_recent_observation": {
+        "date": "2025-05-20",
+        "location": "38715 Puntallana, Santa Cruz de Tenerife, España",
+        "latitude": "28.738324",
+        "longitude": "-17.7451997",
+        "observer": "pepebarbera",
+        "url": "https://www.inaturalist.org/observations/282592202"
+      }
+    },
+    {
+      "scientific_name": "Bombus ashtoni",
+      "common_name": "Ashton's Cuckoo Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": null,
+      "inat_status": "apparently secure",
+      "inat_taxon_id": 198857,
+      "observations_count": 261,
+      "most_recent_observation": {
+        "date": "2025-08-24",
+        "location": "Haines Junction, YT Y0B 1L0, Canada",
+        "latitude": "61.1485709722",
+        "longitude": "-136.98936",
+        "observer": "ckoot",
+        "url": "https://www.inaturalist.org/observations/309374311"
+      }
+    },
+    {
+      "scientific_name": "Epeolus cruciger",
+      "common_name": "Red-thighed Cellophane-cuckoo Bee",
+      "family": "Apidae",
+      "iucn_status": "NT",
+      "inat_status": "near threatened",
+      "inat_taxon_id": 154663,
+      "observations_count": 173,
+      "most_recent_observation": {
+        "date": "2025-09-28",
+        "location": "Île-de-France, FR",
+        "latitude": "48.5932089174",
+        "longitude": "2.5060762726",
+        "observer": "toninooanton",
+        "url": "https://www.inaturalist.org/observations/324549544"
+      }
+    },
+    {
+      "scientific_name": "Bombus mexicanus",
+      "common_name": "Mexican Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 308936,
+      "observations_count": 172,
+      "most_recent_observation": {
+        "date": "2025-11-23",
+        "location": "G7F4+9Q8, Cd Vieja, Guatemala",
+        "latitude": "14.5239683333",
+        "longitude": "-90.742975",
+        "observer": "paul1039",
+        "url": "https://www.inaturalist.org/observations/327930405"
+      }
+    },
+    {
+      "scientific_name": "Bombus mucidus",
+      "common_name": null,
+      "family": "Apidae",
+      "iucn_status": "NT",
+      "inat_status": "near threatened",
+      "inat_taxon_id": 433297,
+      "observations_count": 106,
+      "most_recent_observation": {
+        "date": "2025-08-31",
+        "location": "Nordalpenweg, Reichenau an der Rax, Lower Austria, AT",
+        "latitude": "47.703245",
+        "longitude": "15.7245616667",
+        "observer": "philippeloyoddin",
+        "url": "https://www.inaturalist.org/observations/310472079"
+      }
+    },
+    {
+      "scientific_name": "Bombus steindachneri",
+      "common_name": "Steindachner's Bumble Bee",
+      "family": "Apidae",
+      "iucn_status": "EN",
+      "inat_status": "endangered",
+      "inat_taxon_id": 271524,
+      "observations_count": 97,
+      "most_recent_observation": {
+        "date": "2025-11-09",
+        "location": "Guerrero, MX",
+        "latitude": "17.5656528354",
+        "longitude": "-99.3718880616",
+        "observer": "edgarsalmeronbarrera",
+        "url": "https://www.inaturalist.org/observations/326437033"
+      }
+    },
+    {
+      "scientific_name": "Nomada armata",
+      "common_name": "Armed Nomad Bee",
+      "family": "Apidae",
+      "iucn_status": "NT",
+      "inat_status": "near threatened",
+      "inat_taxon_id": 433967,
+      "observations_count": 79,
+      "most_recent_observation": {
+        "date": "2025-07-14",
+        "location": "Midtjylland, DK",
+        "latitude": "56.1054445766",
+        "longitude": "9.2505789525",
+        "observer": "ellen170",
+        "url": "https://www.inaturalist.org/observations/297853937"
+      }
+    },
+    {
+      "scientific_name": "Anthophora flavocincta",
+      "common_name": null,
+      "family": "Apidae",
+      "iucn_status": null,
+      "inat_status": "imperiled",
+      "inat_taxon_id": 853205,
+      "observations_count": 63,
+      "most_recent_observation": {
+        "date": "2025-09-10",
+        "location": "San Diego River Trail, San Diego, CA, US",
+        "latitude": "32.7548283996",
+        "longitude": "-117.2485557728",
+        "observer": "jwanderer6",
+        "url": "https://www.inaturalist.org/observations/312983851"
+      }
+    },
+    {
+      "scientific_name": "Megachile angelarum",
+      "common_name": null,
+      "family": "Megachilidae",
+      "iucn_status": null,
+      "inat_status": "apparently secure",
+      "inat_taxon_id": 271430,
+      "observations_count": 375,
+      "most_recent_observation": {
+        "date": "2025-07-30",
+        "location": "York St, Denver, CO, US",
+        "latitude": "39.8349310851",
+        "longitude": "-104.9585255986",
+        "observer": "cherrygonewild",
+        "url": "https://www.inaturalist.org/observations/302517149"
+      }
+    },
+    {
+      "scientific_name": "Stelis ater",
+      "common_name": "Florida Black Dark Bee",
+      "family": "Megachilidae",
+      "iucn_status": null,
+      "inat_status": "critically imperiled",
+      "inat_taxon_id": 231505,
+      "observations_count": 20,
+      "most_recent_observation": {
+        "date": "2025-03-31",
+        "location": "Highlands County, FL, USA",
+        "latitude": "27.5554051397",
+        "longitude": "-81.5488117608",
+        "observer": "cpgibson",
+        "url": "https://www.inaturalist.org/observations/268036159"
+      }
+    },
+    {
+      "scientific_name": "Hoplostelis bivittata",
+      "common_name": null,
+      "family": "Megachilidae",
+      "iucn_status": "NT",
+      "inat_status": "near threatened",
+      "inat_taxon_id": 307695,
+      "observations_count": 12,
+      "most_recent_observation": {
+        "date": "2024-09-27",
+        "location": "Oaxaca, MX",
+        "latitude": "16.5192321968",
+        "longitude": "-95.1386010398",
+        "observer": "mar_bizu",
+        "url": "https://www.inaturalist.org/observations/244372906"
+      }
+    },
+    {
+      "scientific_name": "Osmia felti",
+      "common_name": null,
+      "family": "Megachilidae",
+      "iucn_status": null,
+      "inat_status": "imperiled",
+      "inat_taxon_id": 199120,
+      "observations_count": 11,
+      "most_recent_observation": {
+        "date": "2025-06-12",
+        "location": "Burlington County, US-NJ, US",
+        "latitude": "39.9703135756",
+        "longitude": "-74.6891470093",
+        "observer": "mmccarthy98",
+        "url": "https://www.inaturalist.org/observations/289540221"
+      }
+    },
+    {
+      "scientific_name": "Osmia odontogaster",
+      "common_name": "Tooth-bellied Mason Bee",
+      "family": "Megachilidae",
+      "iucn_status": null,
+      "inat_status": "imperiled",
+      "inat_taxon_id": 361610,
+      "observations_count": 8,
+      "most_recent_observation": {
+        "date": "2024-07-13",
+        "location": "Kittitas County, US-WA, US",
+        "latitude": "47.4950523796",
+        "longitude": "-120.8780511615",
+        "observer": "mylodon",
+        "url": "https://www.inaturalist.org/observations/242519971"
+      }
+    },
+    {
+      "scientific_name": "Anthidium rodecki",
+      "common_name": "Rodeck's Woolcarder",
+      "family": "Megachilidae",
+      "iucn_status": null,
+      "inat_status": "imperiled",
+      "inat_taxon_id": 1126381,
+      "observations_count": 7,
+      "most_recent_observation": {
+        "date": "2025-07-15",
+        "location": "Cibola County, US-NM, US",
+        "latitude": "35.1901844621",
+        "longitude": "-108.3562125762",
+        "observer": "firelilysackett",
+        "url": "https://www.inaturalist.org/observations/298331518"
+      }
+    },
+    {
+      "scientific_name": "Halictus semitectus",
+      "common_name": null,
+      "family": "Halictidae",
+      "iucn_status": null,
+      "inat_status": "EN",
+      "inat_taxon_id": 433753,
+      "observations_count": 4,
+      "most_recent_observation": {
+        "date": "2023-05-28",
+        "location": "Sachsen-Anhalt, DE",
+        "latitude": "51.5448996749",
+        "longitude": "11.9767913762",
+        "observer": "spiphany",
+        "url": "https://www.inaturalist.org/observations/164252681"
+      }
+    },
+    {
+      "scientific_name": "Lasioglossum minutulum",
+      "common_name": null,
+      "family": "Halictidae",
+      "iucn_status": "NT",
+      "inat_status": "near threatened",
+      "inat_taxon_id": 500610,
+      "observations_count": 4
+    },
+    {
+      "scientific_name": "Perdita meconis",
+      "common_name": "Mojave Poppy Bee",
+      "family": "Andrenidae",
+      "iucn_status": null,
+      "inat_status": "imperiled",
+      "inat_taxon_id": 227456,
+      "observations_count": 24,
+      "most_recent_observation": {
+        "date": "2024-05-07",
+        "location": "San Bernardino County, US-CA, US",
+        "latitude": "34.9885213132",
+        "longitude": "-115.7053635433",
+        "observer": "mckcolin",
+        "url": "https://www.inaturalist.org/observations/248674264"
+      }
+    },
+    {
+      "scientific_name": "Flavipanurgus granadensis",
+      "common_name": null,
+      "family": "Andrenidae",
+      "iucn_status": "EN",
+      "inat_status": "endangered",
+      "inat_taxon_id": 348604,
+      "observations_count": 3,
+      "most_recent_observation": {
+        "date": "2025-05-24",
+        "location": "Almería, ES-AN, ES",
+        "latitude": "36.9252608593",
+        "longitude": "-2.6554408578",
+        "observer": "faluke",
+        "url": "https://www.inaturalist.org/observations/283846052"
+      }
+    },
+    {
+      "scientific_name": "Colletes dimidiatus",
+      "common_name": "Canary Islands Cellophane Bee",
+      "family": "Colletidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 433478,
+      "observations_count": 208,
+      "most_recent_observation": {
+        "date": "2025-10-15",
+        "location": "Santa Cruz de Tenerife, ES-CN, ES",
+        "latitude": "28.0217558083",
+        "longitude": "-16.4989892573",
+        "observer": "victor_febles",
+        "url": "https://www.inaturalist.org/observations/321112601"
+      }
+    },
+    {
+      "scientific_name": "Colletes moricei",
+      "common_name": "Morice's Cellophane Bee",
+      "family": "Colletidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 433483,
+      "observations_count": 159,
+      "most_recent_observation": {
+        "date": "2025-05-16",
+        "location": "Santa Cruz de Tenerife, ES-CN, ES",
+        "latitude": "28.2280854062",
+        "longitude": "-16.332356872",
+        "observer": "carmendgq",
+        "url": "https://www.inaturalist.org/observations/281886336"
+      }
+    },
+    {
+      "scientific_name": "Colletes halophilus",
+      "common_name": "Sea Aster Cellophane Bee",
+      "family": "Colletidae",
+      "iucn_status": "NT",
+      "inat_status": "near threatened",
+      "inat_taxon_id": 433480,
+      "observations_count": 79,
+      "most_recent_observation": {
+        "date": "2025-09-06",
+        "location": "England, GB",
+        "latitude": "52.8071138",
+        "longitude": "0.7764675174",
+        "observer": "steve1984a",
+        "url": "https://www.inaturalist.org/observations/313069630"
+      }
+    },
+    {
+      "scientific_name": "Hylaeus anthracinus",
+      "common_name": "Anthracite Masked Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "possibly extinct",
+      "inat_taxon_id": 324372,
+      "observations_count": 67,
+      "most_recent_observation": {
+        "date": "2025-08-08",
+        "location": "Honolulu County, US-HI, US",
+        "latitude": "21.6943380299",
+        "longitude": "-157.8509489361",
+        "observer": "buzzwatcher",
+        "url": "https://www.inaturalist.org/observations/304882273"
+      }
+    },
+    {
+      "scientific_name": "Hylaeus difficilis",
+      "common_name": "Difficult Masked Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "possibly extinct",
+      "inat_taxon_id": 448372,
+      "observations_count": 27,
+      "most_recent_observation": {
+        "date": "2024-07-31",
+        "location": "Hawaii County, US-HI, US",
+        "latitude": "19.6839230305",
+        "longitude": "-155.299200775",
+        "observer": "silversea_starsong",
+        "url": "https://www.inaturalist.org/observations/246376805"
+      }
+    },
+    {
+      "scientific_name": "Hylaeus nivicola",
+      "common_name": "Snowy Masked Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "possibly extinct",
+      "inat_taxon_id": 448458,
+      "observations_count": 13,
+      "most_recent_observation": {
+        "date": "2022-04-06",
+        "location": "Hawaii, US",
+        "latitude": "20.7203074107",
+        "longitude": "-156.1362393282",
+        "observer": "ntymo",
+        "url": "https://www.inaturalist.org/observations/111958379"
+      }
+    },
+    {
+      "scientific_name": "Hylaeus longiceps",
+      "common_name": "Long-headed Masked Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "possibly extinct",
+      "inat_taxon_id": 324373,
+      "observations_count": 7,
+      "most_recent_observation": {
+        "date": "2017-05-19",
+        "location": "Hawaii, US",
+        "latitude": "21.2011451984",
+        "longitude": "-157.2097571929",
+        "observer": "buzzwatcher",
+        "url": "https://www.inaturalist.org/observations/18857508"
+      }
+    },
+    {
+      "scientific_name": "Hylaeus assimulans",
+      "common_name": "Assimilated Masked Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "possibly extinct",
+      "inat_taxon_id": 324371,
+      "observations_count": 6,
+      "most_recent_observation": {
+        "date": "2025-03-26",
+        "location": "Maui County, US-HI, US",
+        "latitude": "20.905209145",
+        "longitude": "-156.5161507906",
+        "observer": "justinehaltom",
+        "url": "https://www.inaturalist.org/observations/279321978"
+      }
+    },
+    {
+      "scientific_name": "Hylaeus sphecodoides",
+      "common_name": "Sphecodoid Yellow-faced Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "possibly extinct",
+      "inat_taxon_id": 448352,
+      "observations_count": 4,
+      "most_recent_observation": {
+        "date": "2023-10-20",
+        "location": "Hawaii County, US-HI, US",
+        "latitude": "19.588229522",
+        "longitude": "-155.2401399811",
+        "observer": "brendanwang",
+        "url": "https://www.inaturalist.org/observations/188347827"
+      }
+    },
+    {
+      "scientific_name": "Hylaeus volatilis",
+      "common_name": "Volatile Yellow-faced Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "critically imperiled",
+      "inat_taxon_id": 448388,
+      "observations_count": 4,
+      "most_recent_observation": {
+        "date": "2024-05-23",
+        "location": "Hawaii, US",
+        "latitude": "20.6263626599",
+        "longitude": "-156.1850432128",
+        "observer": "easoburrito",
+        "url": "https://www.inaturalist.org/observations/218192431"
+      }
+    },
+    {
+      "scientific_name": "Hylaeus psammobius",
+      "common_name": "Hilo Masked Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "possibly extinct",
+      "inat_taxon_id": 448461,
+      "observations_count": 4,
+      "most_recent_observation": {
+        "date": "2019-08-17",
+        "location": "Maui County, US-HI, US",
+        "latitude": "20.9568122549",
+        "longitude": "-156.2396010097",
+        "observer": "taylorsaunders",
+        "url": "https://www.inaturalist.org/observations/31105847"
+      }
+    },
+    {
+      "scientific_name": "Colletes cyprius",
+      "common_name": null,
+      "family": "Colletidae",
+      "iucn_status": "NT",
+      "inat_status": "near threatened",
+      "inat_taxon_id": 433477,
+      "observations_count": 3
+    },
+    {
+      "scientific_name": "Hylaeus connectens",
+      "common_name": "Connected Yellow-faced Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "possibly extinct",
+      "inat_taxon_id": 448450,
+      "observations_count": 2,
+      "most_recent_observation": {
+        "date": "2009-09-25",
+        "location": "Honolulu County, US-HI, US",
+        "latitude": "21.4180467741",
+        "longitude": "-158.0174812309",
+        "observer": "kmagnacca",
+        "url": "https://www.inaturalist.org/observations/39388300"
+      }
+    },
+    {
+      "scientific_name": "Colletes sierrensis",
+      "common_name": null,
+      "family": "Colletidae",
+      "iucn_status": "EN",
+      "inat_status": "endangered",
+      "inat_taxon_id": 433487,
+      "observations_count": 2
+    },
+    {
+      "scientific_name": "Hylaeus fuscipennis",
+      "common_name": "Darkwing Yellow-faced Bee",
+      "family": "Colletidae",
+      "iucn_status": null,
+      "inat_status": "critically imperiled",
+      "inat_taxon_id": 448452,
+      "observations_count": 1,
+      "most_recent_observation": {
+        "date": "2020-03-04",
+        "location": "Maui County, US-HI, US",
+        "latitude": "20.9887614138",
+        "longitude": "-156.7466310501",
+        "observer": "zpezzillo",
+        "url": "https://www.inaturalist.org/observations/183178767"
+      }
+    },
+    {
+      "scientific_name": "Melitta kastiliensis",
+      "common_name": null,
+      "family": "Melittidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 188691,
+      "observations_count": 1
+    },
+    {
+      "scientific_name": "Dasypoda frieseana",
+      "common_name": null,
+      "family": "Melittidae",
+      "iucn_status": "EN",
+      "inat_status": "endangered",
+      "inat_taxon_id": 188661,
+      "observations_count": 0
+    },
+    {
+      "scientific_name": "Melitta hispanica",
+      "common_name": null,
+      "family": "Melittidae",
+      "iucn_status": "VU",
+      "inat_status": "vulnerable",
+      "inat_taxon_id": 188689,
+      "observations_count": 0
+    }
+  ]
+}
