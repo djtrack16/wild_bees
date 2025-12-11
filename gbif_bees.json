@@ -1,5 +1,5 @@
 {
-  "collection_date": "2025-11-29T13:32:31.864144",
+  "collection_date": "2025-12-10T13:24:45.876712",
   "total_species": 113,
   "data_source": "GBIF",
   "species": [
@@ -9,73 +9,7 @@
       "iucn_category": "CR",
       "family": "Apidae",
       "total_occurrences": 12692,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5140462148,
-          "date": "2025-04-26T17:30:57",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Wisconsin",
-          "locality": null,
-          "latitude": 43.028606,
-          "longitude": -89.553883,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5140831381,
-          "date": "2025-04-26T12:49:34",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Illinois",
-          "locality": null,
-          "latitude": 42.53623,
-          "longitude": -90.32603,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5140862731,
-          "date": "2025-04-27T15:43:48",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Wisconsin",
-          "locality": null,
-          "latitude": 42.997392,
-          "longitude": -88.935014,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5140873262,
-          "date": "2025-04-27T14:59",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Wisconsin",
-          "locality": null,
-          "latitude": 43.07502,
-          "longitude": -89.43707,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5154248291,
-          "date": "2025-04-30T17:34:30",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Wisconsin",
-          "locality": null,
-          "latitude": 43.856648,
-          "longitude": -91.232935,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus suckleyi Greene, 1860",
@@ -84,32 +18,6 @@
       "family": "Apidae",
       "total_occurrences": 1962,
       "recent_occurrences": [
-        {
-          "gbif_id": 5830675859,
-          "date": "2025-09-17T19:13",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "Alberta",
-          "locality": null,
-          "latitude": 51.386203,
-          "longitude": -113.543035,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 4903728134,
-          "date": "2024-06-08T19:47",
-          "year": 2024,
-          "country": "Canada",
-          "state_province": "Saskatchewan",
-          "locality": null,
-          "latitude": 49.163808,
-          "longitude": -107.530518,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
         {
           "gbif_id": 5068686205,
           "date": "2023-05-31",
@@ -124,30 +32,17 @@
           "institution_code": "RSKM"
         },
         {
-          "gbif_id": 4413469207,
-          "date": "2023-08-20T12:17:46",
-          "year": 2023,
-          "country": "Canada",
-          "state_province": "Saskatchewan",
-          "locality": null,
-          "latitude": 49.99049,
-          "longitude": -101.541856,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 4121212544,
-          "date": "2022-07-07T18:08",
+          "gbif_id": 5068688877,
+          "date": "2022-07-13",
           "year": 2022,
           "country": "Canada",
           "state_province": "Saskatchewan",
-          "locality": null,
-          "latitude": 51.061236,
-          "longitude": -103.187318,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "locality": "Greenwater Lake Provincial Park",
+          "latitude": 52.49943,
+          "longitude": -103.5728,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "ef9817b8-0eba-42b4-92fe-4f206187aabd",
+          "institution_code": "RSKM"
         }
       ]
     },
@@ -156,7 +51,7 @@
       "species_key": "1340448",
       "iucn_category": "CR",
       "family": "Apidae",
-      "total_occurrences": 979,
+      "total_occurrences": 981,
       "recent_occurrences": [
         {
           "gbif_id": 3308780137,
@@ -347,222 +242,24 @@
       "species_key": "1340432",
       "iucn_category": "EN",
       "family": "Apidae",
-      "total_occurrences": 4797,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5077032700,
-          "date": "2025-02-22T13:00:57",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "South Carolina",
-          "locality": null,
-          "latitude": 32.934897,
-          "longitude": -79.852446,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5087963635,
-          "date": "2025-03-12T14:11:03",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Mississippi",
-          "locality": null,
-          "latitude": 30.378958,
-          "longitude": -89.618217,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5108324292,
-          "date": "2025-03-30T15:54:36",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "North Carolina",
-          "locality": null,
-          "latitude": 35.78927,
-          "longitude": -76.406333,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5108370720,
-          "date": "2025-03-28T12:18:43",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "South Carolina",
-          "locality": null,
-          "latitude": 32.897365,
-          "longitude": -80.062028,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5108389581,
-          "date": "2025-03-30T15:54:49",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "North Carolina",
-          "locality": null,
-          "latitude": 35.789233,
-          "longitude": -76.406328,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "total_occurrences": 4801,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus crotchii Cresson, 1879",
       "species_key": "1340280",
       "iucn_category": "EN",
       "family": "Apidae",
-      "total_occurrences": 4097,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5007746364,
-          "date": "2025-01-05T12:02",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 34.275295,
-          "longitude": -118.611043,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5759561028,
-          "date": "2025-01-20T18:31",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 34.302327,
-          "longitude": -119.277295,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5759804628,
-          "date": "2025-01-20T20:30",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 34.302319,
-          "longitude": -119.27663,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5064064306,
-          "date": "2025-02-09T15:12",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 32.760808,
-          "longitude": -116.999022,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5070068329,
-          "date": "2025-02-17T12:24",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 37.282075,
-          "longitude": -122.041011,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "total_occurrences": 4100,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus dahlbomii Guérin-Méneville, 1835",
       "species_key": "1340388",
       "iucn_category": "EN",
       "family": "Apidae",
-      "total_occurrences": 3035,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5007594691,
-          "date": "2025-01-01T16:49",
-          "year": 2025,
-          "country": "Chile",
-          "state_province": "Bío-Bío",
-          "locality": null,
-          "latitude": -37.396825,
-          "longitude": -72.982944,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5007616571,
-          "date": "2025-01-06T14:23",
-          "year": 2025,
-          "country": "Chile",
-          "state_province": "Los Lagos",
-          "locality": null,
-          "latitude": -41.025548,
-          "longitude": -73.059972,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5008158768,
-          "date": "2025-01-07T07:20:58",
-          "year": 2025,
-          "country": "Chile",
-          "state_province": "Valparaíso",
-          "locality": null,
-          "latitude": -33.360768,
-          "longitude": -71.669979,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5008179415,
-          "date": "2025-01-06T14:14:29",
-          "year": 2025,
-          "country": "Chile",
-          "state_province": "Los Lagos",
-          "locality": null,
-          "latitude": -41.162756,
-          "longitude": -73.082563,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5008416941,
-          "date": "2025-01-01T16:42:22",
-          "year": 2025,
-          "country": "Chile",
-          "state_province": "Araucanía",
-          "locality": null,
-          "latitude": -38.732828,
-          "longitude": -72.696894,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "total_occurrences": 3037,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus steindachneri Handlirsch, 1888",
@@ -570,73 +267,7 @@
       "iucn_category": "EN",
       "family": "Apidae",
       "total_occurrences": 1009,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5133127601,
-          "date": "2025-03-30T08:24",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Oaxaca",
-          "locality": null,
-          "latitude": 17.016339,
-          "longitude": -96.529364,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5188233872,
-          "date": "2025-06-07T08:16:02",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Oaxaca",
-          "locality": null,
-          "latitude": 17.186393,
-          "longitude": -96.753715,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5215901832,
-          "date": "2025-06-29T10:38:13",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Guerrero",
-          "locality": null,
-          "latitude": 18.507818,
-          "longitude": -99.636855,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5230429567,
-          "date": "2025-07-11T12:24",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Oaxaca",
-          "locality": null,
-          "latitude": 17.02011,
-          "longitude": -97.948251,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5231352056,
-          "date": "2025-07-07",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Oaxaca",
-          "locality": null,
-          "latitude": 17.114444,
-          "longitude": -96.644516,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Xylocopa aeratus (Smith, 1851)",
@@ -644,73 +275,7 @@
       "iucn_category": "EN",
       "family": "Apidae",
       "total_occurrences": 747,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5897156518,
-          "date": "2025-01-22T11:26",
-          "year": 2025,
-          "country": "Australia",
-          "state_province": "New South Wales",
-          "locality": null,
-          "latitude": -35.008611,
-          "longitude": 150.8421,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5063797693,
-          "date": "2025-02-04",
-          "year": 2025,
-          "country": "Australia",
-          "state_province": "New South Wales",
-          "locality": null,
-          "latitude": -34.258784,
-          "longitude": 150.560991,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5067753806,
-          "date": "2025-02-04T02:10",
-          "year": 2025,
-          "country": "Australia",
-          "state_province": "New South Wales",
-          "locality": "Bargo, NSW",
-          "latitude": -34.258723,
-          "longitude": 150.560898,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "7ebef267-9d72-4c21-a276-cc84281a8590",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5104561845,
-          "date": "2025-03-13T14:18:50",
-          "year": 2025,
-          "country": "Australia",
-          "state_province": "New South Wales",
-          "locality": null,
-          "latitude": -33.1045,
-          "longitude": 151.230653,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5759630907,
-          "date": "2025-03-14T10:11",
-          "year": 2025,
-          "country": "Australia",
-          "state_province": "New South Wales",
-          "locality": null,
-          "latitude": -35.033886,
-          "longitude": 150.666892,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus brachycephalus Handlirsch, 1888",
@@ -794,19 +359,6 @@
       "total_occurrences": 217,
       "recent_occurrences": [
         {
-          "gbif_id": 3037571554,
-          "date": "2020-06-23",
-          "year": 2020,
-          "country": "Switzerland",
-          "state_province": "Gr",
-          "locality": null,
-          "latitude": 46.45397,
-          "longitude": 9.81436,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
-          "institution_code": null
-        },
-        {
           "gbif_id": 5294465100,
           "date": "2020-06-23",
           "year": 2020,
@@ -818,19 +370,6 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "6ee7a8b4-5e12-4c09-8fb4-106f2bd06965",
           "institution_code": "MHNN"
-        },
-        {
-          "gbif_id": 3037566593,
-          "date": "2020-07-28",
-          "year": 2020,
-          "country": "Switzerland",
-          "state_province": "Gr",
-          "locality": null,
-          "latitude": 46.63099,
-          "longitude": 9.95279,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
-          "institution_code": null
         },
         {
           "gbif_id": 5832582087,
@@ -846,7 +385,7 @@
           "institution_code": "PRAZ"
         },
         {
-          "gbif_id": 3037525555,
+          "gbif_id": 3037553913,
           "date": "2020-08-05",
           "year": 2020,
           "country": "Switzerland",
@@ -854,8 +393,34 @@
           "locality": null,
           "latitude": 46.45397,
           "longitude": 9.81436,
-          "basis_of_record": "HUMAN_OBSERVATION",
+          "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 5294465094,
+          "date": "2020-08-05",
+          "year": 2020,
+          "country": "Switzerland",
+          "state_province": "Grisons",
+          "locality": "Silvaplana, Plaun Steffan",
+          "latitude": 46.48,
+          "longitude": 9.8,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "6ee7a8b4-5e12-4c09-8fb4-106f2bd06965",
+          "institution_code": "MHNN"
+        },
+        {
+          "gbif_id": 5832678918,
+          "date": "2020-08-05",
+          "year": 2020,
+          "country": "Switzerland",
+          "state_province": "Gr",
+          "locality": null,
+          "latitude": 46.45397,
+          "longitude": 9.81436,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": null
         }
       ]
@@ -867,19 +432,6 @@
       "family": "Apidae",
       "total_occurrences": 154,
       "recent_occurrences": [
-        {
-          "gbif_id": 2864751441,
-          "date": "2020-07-05T12:07",
-          "year": 2020,
-          "country": "Mexico",
-          "state_province": "México",
-          "locality": null,
-          "latitude": 19.182076,
-          "longitude": -99.458264,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
         {
           "gbif_id": 3308770931,
           "date": "2014-09-28",
@@ -928,6 +480,19 @@
           "locality": "Tramo La Luz-Rodrígues Puebla",
           "latitude": 24.2334,
           "longitude": -105.053469,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
+          "institution_code": "ECOSUR"
+        },
+        {
+          "gbif_id": 3308788494,
+          "date": "2014-09-28",
+          "year": 2014,
+          "country": "Mexico",
+          "state_province": "Durango",
+          "locality": "La Luz",
+          "latitude": 24.197981,
+          "longitude": -105.06625,
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
           "institution_code": "ECOSUR"
@@ -1151,59 +716,33 @@
       "total_occurrences": 11,
       "recent_occurrences": [
         {
-          "gbif_id": 1932929600,
-          "date": "2007",
-          "year": 2007,
-          "country": "Spain",
-          "state_province": "Granada",
-          "locality": null,
-          "latitude": 37.09,
-          "longitude": -3.28,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6361dbf4-f762-11e1-a439-00145eb45e9a",
-          "institution_code": "ARM"
-        },
-        {
-          "gbif_id": 1932929858,
-          "date": "2007",
-          "year": 2007,
-          "country": "Spain",
-          "state_province": "Granada",
-          "locality": null,
-          "latitude": 37.09,
-          "longitude": -3.39,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6361dbf4-f762-11e1-a439-00145eb45e9a",
-          "institution_code": "ARM"
-        },
-        {
-          "gbif_id": 1932929922,
-          "date": "2007",
-          "year": 2007,
-          "country": "Spain",
-          "state_province": null,
-          "locality": null,
-          "latitude": 37.09,
-          "longitude": -3.06,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6361dbf4-f762-11e1-a439-00145eb45e9a",
-          "institution_code": "ARM"
-        },
-        {
-          "gbif_id": 1932929932,
-          "date": "2007",
-          "year": 2007,
-          "country": "Spain",
-          "state_province": "Granada",
-          "locality": null,
-          "latitude": 37.0,
-          "longitude": -3.28,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6361dbf4-f762-11e1-a439-00145eb45e9a",
-          "institution_code": "ARM"
-        },
-        {
           "gbif_id": 911594203,
+          "date": "1988-07-15",
+          "year": 1988,
+          "country": "Spain",
+          "state_province": "Andalusia",
+          "locality": "Parque Natural Sierra Nevada, Campos de Otero",
+          "latitude": 37.10554,
+          "longitude": -3.3892,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "aae308f4-9f9c-4cdd-b4ef-c026f48be551",
+          "institution_code": "KU"
+        },
+        {
+          "gbif_id": 911594224,
+          "date": "1988-07-15",
+          "year": 1988,
+          "country": "Spain",
+          "state_province": "Andalusia",
+          "locality": "Parque Natural Sierra Nevada, Campos de Otero",
+          "latitude": 37.10554,
+          "longitude": -3.3892,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "aae308f4-9f9c-4cdd-b4ef-c026f48be551",
+          "institution_code": "KU"
+        },
+        {
+          "gbif_id": 911594247,
           "date": "1988-07-15",
           "year": 1988,
           "country": "Spain",
@@ -1230,148 +769,16 @@
       "species_key": "1340416",
       "iucn_category": "VU",
       "family": "Apidae",
-      "total_occurrences": 74508,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5007561247,
-          "date": "2025-01-04T17:12:41",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Texas",
-          "locality": null,
-          "latitude": 30.339478,
-          "longitude": -97.747887,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5007576186,
-          "date": "2025-01-05T09:54",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Texas",
-          "locality": null,
-          "latitude": 29.457635,
-          "longitude": -98.458418,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5037040921,
-          "date": "2025-01-13T15:54:47",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Texas",
-          "locality": null,
-          "latitude": 29.336995,
-          "longitude": -95.290962,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5062981489,
-          "date": "2025-01-03T14:14:43",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Texas",
-          "locality": null,
-          "latitude": 29.583225,
-          "longitude": -98.414268,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5063614800,
-          "date": "2025-01-29T12:54:59",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Texas",
-          "locality": null,
-          "latitude": 29.197459,
-          "longitude": -94.948959,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "total_occurrences": 74560,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus fervidus (Fabricius, 1798)",
       "species_key": "1340478",
       "iucn_category": "VU",
       "family": "Apidae",
-      "total_occurrences": 35610,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5133301087,
-          "date": "2025-04-12T12:49:02",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "Ontario",
-          "locality": null,
-          "latitude": 41.75578,
-          "longitude": -82.677528,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5133796303,
-          "date": "2025-04-15T09:05:55",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Pennsylvania",
-          "locality": null,
-          "latitude": 39.874663,
-          "longitude": -75.661225,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5133846376,
-          "date": "2025-04-14T13:56",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "British Columbia",
-          "locality": null,
-          "latitude": 49.943673,
-          "longitude": -119.399554,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5133997354,
-          "date": "2025-04-14T14:18",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Washington",
-          "locality": null,
-          "latitude": 46.272208,
-          "longitude": -119.311194,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5134192532,
-          "date": "2025-04-17T11:14",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 41.745415,
-          "longitude": -122.613729,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "total_occurrences": 35657,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus terricola Kirby, 1837",
@@ -1379,221 +786,23 @@
       "iucn_category": "VU",
       "family": "Apidae",
       "total_occurrences": 25942,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5133623096,
-          "date": "2025-04-08T15:30:36",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "British Columbia",
-          "locality": null,
-          "latitude": 52.776997,
-          "longitude": -122.435586,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5140846649,
-          "date": "2025-04-28T11:06:55",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "Ontario",
-          "locality": null,
-          "latitude": 46.506262,
-          "longitude": -84.294107,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5153246495,
-          "date": "2025-04-30T14:28:28",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Maine",
-          "locality": null,
-          "latitude": 44.420533,
-          "longitude": -70.81375,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5154811450,
-          "date": "2025-04-24T19:31:44",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Vermont",
-          "locality": null,
-          "latitude": 44.750118,
-          "longitude": -72.840682,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5153140833,
-          "date": "2025-05-11T15:43",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "Québec",
-          "locality": null,
-          "latitude": 48.436048,
-          "longitude": -68.586779,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus occidentalis Greene, 1858",
       "species_key": "1340429",
       "iucn_category": "VU",
       "family": "Apidae",
-      "total_occurrences": 20408,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5087627000,
-          "date": "2025-03-06T14:21",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "British Columbia",
-          "locality": null,
-          "latitude": 48.478533,
-          "longitude": -123.556408,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5108215885,
-          "date": "2025-03-26T15:13:41",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "British Columbia",
-          "locality": null,
-          "latitude": 49.330872,
-          "longitude": -117.659492,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5108389324,
-          "date": "2025-03-30T14:44",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "British Columbia",
-          "locality": null,
-          "latitude": 50.206183,
-          "longitude": -116.970664,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5108505502,
-          "date": "2025-03-30T15:47:19",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "British Columbia",
-          "locality": null,
-          "latitude": 49.549718,
-          "longitude": -117.238425,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5168152602,
-          "date": "2025-03-17T12:53:19",
-          "year": 2025,
-          "country": "Canada",
-          "state_province": "British Columbia",
-          "locality": null,
-          "latitude": 49.157226,
-          "longitude": -123.968504,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "total_occurrences": 20412,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus morrisoni Cresson, 1879",
       "species_key": "1340475",
       "iucn_category": "VU",
       "family": "Apidae",
-      "total_occurrences": 7778,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5154024958,
-          "date": "2025-05-07T16:10:46",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Colorado",
-          "locality": null,
-          "latitude": 39.1362,
-          "longitude": -108.744775,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5154207121,
-          "date": "2025-05-07T16:11:17",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Colorado",
-          "locality": null,
-          "latitude": 39.136197,
-          "longitude": -108.74478,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5154330963,
-          "date": "2025-05-09T11:04:51",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Oregon",
-          "locality": null,
-          "latitude": 44.348212,
-          "longitude": -121.266623,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5154590707,
-          "date": "2025-05-01T15:22:28",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Utah",
-          "locality": null,
-          "latitude": 40.359673,
-          "longitude": -112.004744,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5154814424,
-          "date": "2025-05-07T13:24:12",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "Utah",
-          "locality": null,
-          "latitude": 41.73696,
-          "longitude": -111.833836,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "total_occurrences": 7786,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus caliginosus (Frison, 1927)",
@@ -1601,73 +810,7 @@
       "iucn_category": "VU",
       "family": "Apidae",
       "total_occurrences": 2704,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5133134632,
-          "date": "2025-04-10T13:25",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 35.302705,
-          "longitude": -120.87008,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5830664692,
-          "date": "2025-04-24T18:31",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 34.690553,
-          "longitude": -120.600184,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5167946597,
-          "date": "2025-05-13T11:19",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 36.509397,
-          "longitude": -121.941622,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5187703664,
-          "date": "2025-05-26T03:15",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 38.421324,
-          "longitude": -123.107387,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5830939423,
-          "date": "2025-05-25T11:38",
-          "year": 2025,
-          "country": "United States of America",
-          "state_province": "California",
-          "locality": null,
-          "latitude": 39.398963,
-          "longitude": -123.814625,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus medius Cresson, 1863",
@@ -1675,73 +818,7 @@
       "iucn_category": "VU",
       "family": "Apidae",
       "total_occurrences": 2241,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5292328742,
-          "date": "2025-01-09T17:47",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Querétaro",
-          "locality": null,
-          "latitude": 21.306348,
-          "longitude": -99.197119,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5063782021,
-          "date": "2025-02-03T00:07",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Veracruz",
-          "locality": null,
-          "latitude": 19.477274,
-          "longitude": -96.945908,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5063929826,
-          "date": "2025-02-05T09:31:44",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Veracruz",
-          "locality": null,
-          "latitude": 19.482451,
-          "longitude": -96.941753,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5087564508,
-          "date": "2025-03-05T20:47",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Puebla",
-          "locality": null,
-          "latitude": 20.331179,
-          "longitude": -97.857568,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5104578263,
-          "date": "2025-03-24T09:41",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Veracruz",
-          "locality": null,
-          "latitude": 19.572354,
-          "longitude": -96.942316,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus alpinus (Linnaeus, 1758)",
@@ -1749,73 +826,7 @@
       "iucn_category": "VU",
       "family": "Apidae",
       "total_occurrences": 2337,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5163721450,
-          "date": "2025-05-17",
-          "year": 2025,
-          "country": "Norway",
-          "state_province": "Møre og Romsdal",
-          "locality": "Grøvudalen, Nysetertjønna, Sunndal, Mr",
-          "latitude": 62.459774,
-          "longitude": 8.924475,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "b124e1e0-4755-430f-9eab-894f25a9b59c",
-          "institution_code": "nef"
-        },
-        {
-          "gbif_id": 5163772791,
-          "date": "2025-05-20",
-          "year": 2025,
-          "country": "Norway",
-          "state_province": "Innlandet",
-          "locality": "Snuen, Gausdal, In",
-          "latitude": 61.164989,
-          "longitude": 9.748311,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "b124e1e0-4755-430f-9eab-894f25a9b59c",
-          "institution_code": "nef"
-        },
-        {
-          "gbif_id": 5163784709,
-          "date": "2025-05-20",
-          "year": 2025,
-          "country": "Norway",
-          "state_province": "Innlandet",
-          "locality": "Snuen, Gausdal, In",
-          "latitude": 61.164989,
-          "longitude": 9.748311,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "b124e1e0-4755-430f-9eab-894f25a9b59c",
-          "institution_code": "nef"
-        },
-        {
-          "gbif_id": 5163862471,
-          "date": "2025-05-20",
-          "year": 2025,
-          "country": "Norway",
-          "state_province": "Innlandet",
-          "locality": "Snuen, Gausdal, In",
-          "latitude": 61.164989,
-          "longitude": 9.748311,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "b124e1e0-4755-430f-9eab-894f25a9b59c",
-          "institution_code": "nef"
-        },
-        {
-          "gbif_id": 5163895874,
-          "date": "2025-05-20",
-          "year": 2025,
-          "country": "Norway",
-          "state_province": "Innlandet",
-          "locality": "Snuen, Gausdal, In",
-          "latitude": 61.164989,
-          "longitude": 9.748311,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "b124e1e0-4755-430f-9eab-894f25a9b59c",
-          "institution_code": "nef"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus mexicanus Cresson, 1879",
@@ -1823,73 +834,7 @@
       "iucn_category": "VU",
       "family": "Apidae",
       "total_occurrences": 768,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5108302280,
-          "date": "2025-03-28T08:49:09",
-          "year": 2025,
-          "country": "Guatemala",
-          "state_province": "Sololá",
-          "locality": null,
-          "latitude": 14.740542,
-          "longitude": -91.208167,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5140285243,
-          "date": "2025-04-25T17:18:20",
-          "year": 2025,
-          "country": "Guatemala",
-          "state_province": "Guatemala",
-          "locality": null,
-          "latitude": 14.599333,
-          "longitude": -90.456453,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5166856159,
-          "date": "2025-05-15T13:43:08",
-          "year": 2025,
-          "country": "Guatemala",
-          "state_province": "Guatemala",
-          "locality": null,
-          "latitude": 14.658839,
-          "longitude": -90.537861,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5167006594,
-          "date": "2025-05-16T08:00",
-          "year": 2025,
-          "country": "Guatemala",
-          "state_province": "Guatemala",
-          "locality": null,
-          "latitude": 14.604762,
-          "longitude": -90.489045,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5167037788,
-          "date": "2025-05-16T12:25",
-          "year": 2025,
-          "country": "Guatemala",
-          "state_province": "Guatemala",
-          "locality": null,
-          "latitude": 14.603762,
-          "longitude": -90.489248,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Ceratina buscki Cockerell, 1919",
@@ -2012,19 +957,6 @@
           "institution_code": "University of Arizona, Insect Collection"
         },
         {
-          "gbif_id": 3328036735,
-          "date": "2021-07-09T09:59:19",
-          "year": 2021,
-          "country": "Mexico",
-          "state_province": "Baja California Sur",
-          "locality": null,
-          "latitude": 23.44347,
-          "longitude": -110.215172,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
           "gbif_id": 4454115416,
           "date": "2018-08-14",
           "year": 2018,
@@ -2035,6 +967,19 @@
           "longitude": -109.518,
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "e36d0997-2f51-4718-b684-16ec092ecd82",
+          "institution_code": "UA"
+        },
+        {
+          "gbif_id": 2847301357,
+          "date": "2006-07-26",
+          "year": 2006,
+          "country": "Mexico",
+          "state_province": "Sonora",
+          "locality": "30 km east of Agua Prieta",
+          "latitude": 31.32222,
+          "longitude": -109.27778,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "84b69033-f9de-40bc-8d5f-8ee41987d6cc",
           "institution_code": "UA"
         }
       ]
@@ -2195,45 +1140,6 @@
       "total_occurrences": 6,
       "recent_occurrences": [
         {
-          "gbif_id": 5062832331,
-          "date": "2024-08-11T14:45:42",
-          "year": 2024,
-          "country": "Mexico",
-          "state_province": "Morelos",
-          "locality": null,
-          "latitude": 18.907465,
-          "longitude": -99.016378,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5176408417,
-          "date": "2023-09-02T11:00",
-          "year": 2023,
-          "country": "Mexico",
-          "state_province": "Colima",
-          "locality": null,
-          "latitude": 19.148781,
-          "longitude": -104.403776,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5177017372,
-          "date": "2023-09-03T15:41",
-          "year": 2023,
-          "country": "Mexico",
-          "state_province": "Jalisco",
-          "locality": null,
-          "latitude": 20.961166,
-          "longitude": -103.400782,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
           "gbif_id": 1418499293,
           "date": "1996-09-01",
           "year": 1996,
@@ -2248,6 +1154,19 @@
         },
         {
           "gbif_id": 894576242,
+          "date": "1965-09-08",
+          "year": 1965,
+          "country": "Mexico",
+          "state_province": "Oaxaca",
+          "locality": "Tehuantepec, 17 km W",
+          "latitude": 16.3665,
+          "longitude": -95.3831,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "aae308f4-9f9c-4cdd-b4ef-c026f48be551",
+          "institution_code": "KU"
+        },
+        {
+          "gbif_id": 894576268,
           "date": "1965-09-08",
           "year": 1965,
           "country": "Mexico",
@@ -2277,69 +1196,69 @@
       "total_occurrences": 2664,
       "recent_occurrences": [
         {
-          "gbif_id": 5153058112,
-          "date": "2025-05-03T10:59",
+          "gbif_id": 5893230487,
+          "date": "2025-06-18",
           "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
+          "country": "Switzerland",
+          "state_province": "Ow",
           "locality": null,
-          "latitude": 47.474019,
-          "longitude": 13.165457,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5197720846,
-          "date": "2025-06-21",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
-          "locality": "Berchtesgaden NP",
-          "latitude": 47.54,
-          "longitude": 12.81,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
+          "latitude": 46.83522,
+          "longitude": 8.32343,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": null
         },
         {
-          "gbif_id": 5198004281,
-          "date": "2025-06-21",
+          "gbif_id": 5893230681,
+          "date": "2025-08-19",
           "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
-          "locality": "Berchtesgaden NP",
-          "latitude": 47.54,
-          "longitude": 12.82,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
+          "country": "Switzerland",
+          "state_province": "Ow",
+          "locality": null,
+          "latitude": 46.83413,
+          "longitude": 8.4545,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": null
         },
         {
-          "gbif_id": 5198552404,
-          "date": "2025-06-12T13:21:08",
+          "gbif_id": 5893230838,
+          "date": "2025-08-19",
           "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
+          "country": "Switzerland",
+          "state_province": "Ow",
           "locality": null,
-          "latitude": 47.499414,
-          "longitude": 10.24746,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "latitude": 46.83413,
+          "longitude": 8.4545,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": null
         },
         {
-          "gbif_id": 5206094359,
-          "date": "2025-06-21T11:22:50",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Salzburg",
+          "gbif_id": 5076307875,
+          "date": "2024-06-29",
+          "year": 2024,
+          "country": "Switzerland",
+          "state_province": "Ow",
           "locality": null,
-          "latitude": 47.555116,
-          "longitude": 12.881895,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "latitude": 46.79025,
+          "longitude": 8.32269,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 5832691597,
+          "date": "2024-06-29",
+          "year": 2024,
+          "country": "Switzerland",
+          "state_province": "Ow",
+          "locality": null,
+          "latitude": 46.79025,
+          "longitude": 8.32269,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": null
         }
       ]
     },
@@ -2348,74 +1267,8 @@
       "species_key": "1341892",
       "iucn_category": "NT",
       "family": "Apidae",
-      "total_occurrences": 3702,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5214548476,
-          "date": "2025-07-08",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Skåne",
-          "locality": "Norra hamnen, Sk",
-          "latitude": 55.63205,
-          "longitude": 13.00081,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        },
-        {
-          "gbif_id": 5223552615,
-          "date": "2025-07-14",
-          "year": 2025,
-          "country": "Norway",
-          "state_province": "Agder",
-          "locality": "Kroodden nord, Kristiansand, Ag",
-          "latitude": 58.097746,
-          "longitude": 7.967095,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "b124e1e0-4755-430f-9eab-894f25a9b59c",
-          "institution_code": "nef"
-        },
-        {
-          "gbif_id": 5229095926,
-          "date": "2025-07-13",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Gotland",
-          "locality": "Rävhagen sandyta 2, Gtl",
-          "latitude": 57.62577,
-          "longitude": 18.32755,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        },
-        {
-          "gbif_id": 5229114590,
-          "date": "2025-07-13",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Gotland",
-          "locality": "Visborg 3 sandyta 1, Gtl",
-          "latitude": 57.62056,
-          "longitude": 18.27694,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        },
-        {
-          "gbif_id": 5229137016,
-          "date": "2025-07-18",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Gotland",
-          "locality": "Visborg 2, Gtl",
-          "latitude": 57.59889,
-          "longitude": 18.27849,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        }
-      ]
+      "total_occurrences": 3711,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus mucidus Gerstäcker, 1869",
@@ -2425,69 +1278,69 @@
       "total_occurrences": 2098,
       "recent_occurrences": [
         {
-          "gbif_id": 5167539066,
-          "date": "2025-05-14T10:28",
+          "gbif_id": 5893230558,
+          "date": "2025-06-18",
           "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
+          "country": "Switzerland",
+          "state_province": "Ow",
           "locality": null,
-          "latitude": 47.547546,
-          "longitude": 10.56609,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5198415458,
-          "date": "2025-06-15T10:44:02",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
-          "locality": null,
-          "latitude": 47.562217,
-          "longitude": 13.053322,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5199042409,
-          "date": "2025-06-12T14:27:44",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
-          "locality": null,
-          "latitude": 47.444223,
-          "longitude": 10.222062,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5204836016,
-          "date": "2025-06-28",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
-          "locality": "OA Oberallgäu (Landkreis)",
-          "latitude": 47.536881,
-          "longitude": 10.218004,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
+          "latitude": 46.83522,
+          "longitude": 8.32343,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": null
         },
         {
-          "gbif_id": 5205849185,
-          "date": "2025-06-19T12:34:18",
+          "gbif_id": 5893232702,
+          "date": "2025-06-18",
           "year": 2025,
-          "country": "Germany",
-          "state_province": "Bayern",
+          "country": "Switzerland",
+          "state_province": "Ow",
           "locality": null,
-          "latitude": 47.579558,
-          "longitude": 10.890158,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "latitude": 46.83522,
+          "longitude": 8.32343,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": "NMBE"
+        },
+        {
+          "gbif_id": 5893232727,
+          "date": "2025-06-18",
+          "year": 2025,
+          "country": "Switzerland",
+          "state_province": "Ow",
+          "locality": null,
+          "latitude": 46.83522,
+          "longitude": 8.32343,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 5893232852,
+          "date": "2025-06-18",
+          "year": 2025,
+          "country": "Switzerland",
+          "state_province": "Ow",
+          "locality": null,
+          "latitude": 46.83522,
+          "longitude": 8.32343,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 5893231632,
+          "date": "2025-07-05",
+          "year": 2025,
+          "country": "Switzerland",
+          "state_province": "Be",
+          "locality": null,
+          "latitude": 46.65626,
+          "longitude": 8.18985,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": "PRUN"
         }
       ]
     },
@@ -2496,146 +1349,54 @@
       "species_key": "1343523",
       "iucn_category": "NT",
       "family": "Apidae",
-      "total_occurrences": 1326,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5164287444,
-          "date": "2025-05-13",
-          "year": 2025,
-          "country": "Netherlands",
-          "state_province": "Limburg",
-          "locality": "De Hamert - Stalberg",
-          "latitude": 51.5,
-          "longitude": 6.15,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5164315149,
-          "date": "2025-05-23",
-          "year": 2025,
-          "country": "Netherlands",
-          "state_province": "Gelderland",
-          "locality": "Nijmegen - Brakkenstein - Botanische tuin",
-          "latitude": 51.8,
-          "longitude": 5.85,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5164405566,
-          "date": "2025-05-24",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Baden-Württemberg",
-          "locality": "Taubergießen",
-          "latitude": 48.290135,
-          "longitude": 7.715279,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5164473500,
-          "date": "2025-05-15",
-          "year": 2025,
-          "country": "Netherlands",
-          "state_province": "Limburg",
-          "locality": "Rivierpark Maasvallei - Visserweert",
-          "latitude": 51.05,
-          "longitude": 5.8,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5170818325,
-          "date": "2025-05-31T00:00",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 3021/4 - Aller / Verden (Ost) / Kirchlinteln",
-          "latitude": 52.923519,
-          "longitude": 9.290555,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
-        }
-      ]
+      "total_occurrences": 1329,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Bombus diligens Smith, 1861",
       "species_key": "1340529",
       "iucn_category": "NT",
       "family": "Apidae",
-      "total_occurrences": 904,
+      "total_occurrences": 905,
       "recent_occurrences": [
         {
-          "gbif_id": 5889693303,
-          "date": "2025-08-27T12:04",
-          "year": 2025,
+          "gbif_id": 4120732871,
+          "date": "2015-11-10",
+          "year": 2015,
           "country": "Mexico",
-          "state_province": "Oaxaca",
-          "locality": null,
-          "latitude": 17.314431,
-          "longitude": -96.53716,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "state_province": "México",
+          "locality": "Llano de san Diego",
+          "latitude": 18.868,
+          "longitude": -99.649,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "cea5d5d2-acfc-457b-8dd2-10c6013a8b49",
+          "institution_code": "ECOSUR-SC"
         },
         {
-          "gbif_id": 5889828454,
-          "date": "2025-10-21T14:11",
-          "year": 2025,
-          "country": "Mexico",
-          "state_province": "Veracruz",
-          "locality": null,
-          "latitude": 18.87008,
-          "longitude": -97.144834,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5062980426,
-          "date": "2024-12-07T14:52:33",
-          "year": 2024,
+          "gbif_id": 3308769517,
+          "date": "2014-09-20",
+          "year": 2014,
           "country": "Mexico",
           "state_province": "Jalisco",
-          "locality": null,
-          "latitude": 19.947545,
-          "longitude": -103.055975,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "locality": "Cañaditas",
+          "latitude": 21.219431,
+          "longitude": -103.011411,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
+          "institution_code": "ECOSUR"
         },
         {
-          "gbif_id": 3384562392,
-          "date": "2021-09-16T09:43Z",
-          "year": 2021,
+          "gbif_id": 3308772392,
+          "date": "2014-09-11",
+          "year": 2014,
           "country": "Mexico",
-          "state_province": "Jalisco",
-          "locality": null,
-          "latitude": 20.291153,
-          "longitude": -103.22619,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 4126775619,
-          "date": "2021-09-05T18:41",
-          "year": 2021,
-          "country": "Mexico",
-          "state_province": "Hidalgo",
-          "locality": null,
-          "latitude": 21.096657,
-          "longitude": -99.06069,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "state_province": "Michoacan de ocampo",
+          "locality": "Patamban",
+          "latitude": 19.79785,
+          "longitude": -102.281969,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
+          "institution_code": "ECOSUR"
         }
       ]
     },
@@ -2644,60 +1405,8 @@
       "species_key": "1343598",
       "iucn_category": "NT",
       "family": "Apidae",
-      "total_occurrences": 363,
+      "total_occurrences": 364,
       "recent_occurrences": [
-        {
-          "gbif_id": 5287303196,
-          "date": "2025-08-09",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Östergötland",
-          "locality": "Sankta Marias k:a 600 öst, Ög",
-          "latitude": 58.6757,
-          "longitude": 15.85477,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        },
-        {
-          "gbif_id": 5287322243,
-          "date": "2025-08-07",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Södermanland",
-          "locality": "Vid motorcrosstig, Srm",
-          "latitude": 59.16102,
-          "longitude": 17.95234,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        },
-        {
-          "gbif_id": 5287336127,
-          "date": "2025-08-11",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Södermanland",
-          "locality": "Vid motorcrosstig, Srm",
-          "latitude": 59.16102,
-          "longitude": 17.95234,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        },
-        {
-          "gbif_id": 5287357836,
-          "date": "2025-08-07",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Västmanland",
-          "locality": "Mon, Bofors skjutfält, Vstm",
-          "latitude": 59.42837,
-          "longitude": 14.90537,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        },
         {
           "gbif_id": 5287371506,
           "date": "2025-08-07",
@@ -2710,6 +1419,19 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
           "institution_code": "SLU Artdatabanken"
+        },
+        {
+          "gbif_id": 4924518242,
+          "date": "2024-08-14",
+          "year": 2024,
+          "country": "Sweden",
+          "state_province": "Småland",
+          "locality": "Bredal Passdalen, 850 m NV, Sm",
+          "latitude": 58.13947,
+          "longitude": 16.36325,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
+          "institution_code": "SLU Artdatabanken"
         }
       ]
     },
@@ -2719,73 +1441,7 @@
       "iucn_category": "NT",
       "family": "Apidae",
       "total_occurrences": 275,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5087403279,
-          "date": "2025-01-19T12:08Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.4723,
-          "longitude": -16.447697,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5087483516,
-          "date": "2025-01-19T12:35Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.472783,
-          "longitude": -16.44541,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5087530246,
-          "date": "2025-01-19T12:14Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.472454,
-          "longitude": -16.447441,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5069907451,
-          "date": "2025-02-03T13:35Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.268142,
-          "longitude": -16.822124,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5076986454,
-          "date": "2025-02-09T10:50Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.502701,
-          "longitude": -16.336055,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Nomada baccata Smith, 1844",
@@ -2793,73 +1449,7 @@
       "iucn_category": "NT",
       "family": "Apidae",
       "total_occurrences": 327,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5234613374,
-          "date": "2025-07-24",
-          "year": 2025,
-          "country": "Netherlands",
-          "state_province": "Noord-Brabant",
-          "locality": "Bladel - Cartierheide",
-          "latitude": 51.3,
-          "longitude": 5.25,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5292154050,
-          "date": "2025-08-13T14:08:24",
-          "year": 2025,
-          "country": "Denmark",
-          "state_province": "Syddanmark",
-          "locality": null,
-          "latitude": 55.260895,
-          "longitude": 8.541563,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5292519288,
-          "date": "2025-08-13T16:23",
-          "year": 2025,
-          "country": "Denmark",
-          "state_province": "Syddanmark",
-          "locality": null,
-          "latitude": 55.310684,
-          "longitude": 8.567481,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5292557955,
-          "date": "2025-08-13T14:06:26",
-          "year": 2025,
-          "country": "Denmark",
-          "state_province": "Syddanmark",
-          "locality": null,
-          "latitude": 55.232665,
-          "longitude": 8.470746,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5292561518,
-          "date": "2025-08-13T14:06:28",
-          "year": 2025,
-          "country": "Denmark",
-          "state_province": "Syddanmark",
-          "locality": null,
-          "latitude": 55.228537,
-          "longitude": 8.587271,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Nomada errans Lepeletier, 1841",
@@ -2868,32 +1458,6 @@
       "family": "Apidae",
       "total_occurrences": 114,
       "recent_occurrences": [
-        {
-          "gbif_id": 5231163093,
-          "date": "2025-07-18T13:28",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Baden-Württemberg",
-          "locality": null,
-          "latitude": 48.2593,
-          "longitude": 9.083828,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5133473064,
-          "date": "2024-07-29T12:37",
-          "year": 2024,
-          "country": "Germany",
-          "state_province": "Baden-Württemberg",
-          "locality": null,
-          "latitude": 48.395992,
-          "longitude": 9.070903,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
         {
           "gbif_id": 3037561458,
           "date": "2020-07-20",
@@ -2931,6 +1495,32 @@
           "longitude": 6.04706,
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
+          "institution_code": "PRUN"
+        },
+        {
+          "gbif_id": 5832958690,
+          "date": "2020-07-20",
+          "year": 2020,
+          "country": "Switzerland",
+          "state_province": "Ge",
+          "locality": null,
+          "latitude": 46.15538,
+          "longitude": 6.04706,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": "PRUN"
+        },
+        {
+          "gbif_id": 5832980416,
+          "date": "2020-07-20",
+          "year": 2020,
+          "country": "Switzerland",
+          "state_province": "Ge",
+          "locality": null,
+          "latitude": 46.15538,
+          "longitude": 6.04706,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": "PRUN"
         }
       ]
@@ -3091,58 +1681,6 @@
       "total_occurrences": 16,
       "recent_occurrences": [
         {
-          "gbif_id": 5069856180,
-          "date": "2025-02-02T10:12",
-          "year": 2025,
-          "country": "Costa Rica",
-          "state_province": "San José",
-          "locality": null,
-          "latitude": 9.59108,
-          "longitude": -83.793105,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5759539664,
-          "date": "2025-05-29T11:41",
-          "year": 2025,
-          "country": "Costa Rica",
-          "state_province": "San José",
-          "locality": null,
-          "latitude": 9.58787,
-          "longitude": -83.799392,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 4846744762,
-          "date": "2023-11-14T07:37",
-          "year": 2023,
-          "country": "Costa Rica",
-          "state_province": "Alajuela",
-          "locality": null,
-          "latitude": 10.20131,
-          "longitude": -84.304735,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 4453682496,
-          "date": "2022-02-11T12:25",
-          "year": 2022,
-          "country": "Costa Rica",
-          "state_province": "Cartago",
-          "locality": null,
-          "latitude": 9.642628,
-          "longitude": -83.840528,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
           "gbif_id": 3308785915,
           "date": "2016-07-06",
           "year": 2016,
@@ -3154,6 +1692,58 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
           "institution_code": "ECOSUR"
+        },
+        {
+          "gbif_id": 3308811381,
+          "date": "2016-07-06",
+          "year": 2016,
+          "country": "Costa Rica",
+          "state_province": "Alajuela",
+          "locality": "Parque Nacional Volcán Poás",
+          "latitude": 10.164628,
+          "longitude": -84.229439,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
+          "institution_code": "ECOSUR"
+        },
+        {
+          "gbif_id": 3308820159,
+          "date": "2016-07-06",
+          "year": 2016,
+          "country": "Costa Rica",
+          "state_province": "Alajuela",
+          "locality": "Parque Nacional Volcán Poás",
+          "latitude": 10.164628,
+          "longitude": -84.229439,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
+          "institution_code": "ECOSUR"
+        },
+        {
+          "gbif_id": 5863928872,
+          "date": "2002-02-09",
+          "year": 2002,
+          "country": "Costa Rica",
+          "state_province": "Heredia Province",
+          "locality": "P.N. Braulio Carrillo, Transecto altitudinal Barva   La Selva",
+          "latitude": 10.178882,
+          "longitude": -84.116135,
+          "basis_of_record": "MATERIAL_SAMPLE",
+          "dataset_key": "040c5662-da76-4782-a48e-cdea1892d14c",
+          "institution_code": "Instituto Nacional de Biodiversidad, Costa Rica"
+        },
+        {
+          "gbif_id": 5862755500,
+          "date": "1997-05-16",
+          "year": 1997,
+          "country": "Costa Rica",
+          "state_province": "Heredia Province",
+          "locality": "Cerro Chompipe",
+          "latitude": 10.08844,
+          "longitude": -84.07788,
+          "basis_of_record": "MATERIAL_SAMPLE",
+          "dataset_key": "040c5662-da76-4782-a48e-cdea1892d14c",
+          "institution_code": "Instituto Nacional de Biodiversidad, Costa Rica"
         }
       ]
     },
@@ -3430,32 +2020,6 @@
       "total_occurrences": 5,
       "recent_occurrences": [
         {
-          "gbif_id": 5838378166,
-          "date": "2025-07-28T09:47",
-          "year": 2025,
-          "country": "Indonesia",
-          "state_province": "Maluku Utara",
-          "locality": null,
-          "latitude": -0.564434,
-          "longitude": 127.412464,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5153829353,
-          "date": "2019-10-13T10:32",
-          "year": 2019,
-          "country": "Indonesia",
-          "state_province": "Maluku Utara",
-          "locality": null,
-          "latitude": 1.346645,
-          "longitude": 128.584838,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
           "gbif_id": 3920632439,
           "date": "1987-07-29",
           "year": 1987,
@@ -3503,19 +2067,6 @@
       "family": "Megachilidae",
       "total_occurrences": 7,
       "recent_occurrences": [
-        {
-          "gbif_id": 5086908360,
-          "date": "2017-09-28T11:03",
-          "year": 2017,
-          "country": "Mexico",
-          "state_province": "Jalisco",
-          "locality": null,
-          "latitude": 19.49866,
-          "longitude": -105.044361,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
         {
           "gbif_id": 3308814961,
           "date": "2007-06-15",
@@ -3567,6 +2118,19 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "aae308f4-9f9c-4cdd-b4ef-c026f48be551",
           "institution_code": "KU"
+        },
+        {
+          "gbif_id": 658345388,
+          "date": "1986-06-20",
+          "year": 1986,
+          "country": "Mexico",
+          "state_province": "Jalisco",
+          "locality": "Chamela Biological Station",
+          "latitude": 19.5333,
+          "longitude": -105.0667,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "aae308f4-9f9c-4cdd-b4ef-c026f48be551",
+          "institution_code": "KU"
         }
       ]
     },
@@ -3577,58 +2141,6 @@
       "family": "Megachilidae",
       "total_occurrences": 128,
       "recent_occurrences": [
-        {
-          "gbif_id": 5198880402,
-          "date": "2024-03-12T16:51",
-          "year": 2024,
-          "country": "Costa Rica",
-          "state_province": "San José",
-          "locality": null,
-          "latitude": 9.575986,
-          "longitude": -83.715561,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5187881359,
-          "date": "2024-09-27T11:37:10",
-          "year": 2024,
-          "country": "Mexico",
-          "state_province": "Oaxaca",
-          "locality": null,
-          "latitude": 16.519232,
-          "longitude": -95.138601,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5198453368,
-          "date": "2023-01-24T13:17",
-          "year": 2023,
-          "country": "Costa Rica",
-          "state_province": "Heredia",
-          "locality": null,
-          "latitude": 10.405308,
-          "longitude": -84.028559,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5198496392,
-          "date": "2023-09-30T15:01:51",
-          "year": 2023,
-          "country": "Panama",
-          "state_province": "Chiriquí",
-          "locality": null,
-          "latitude": 8.665551,
-          "longitude": -82.543923,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
         {
           "gbif_id": 3308791037,
           "date": "2010-02-24",
@@ -3641,6 +2153,58 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
           "institution_code": "ECOSUR"
+        },
+        {
+          "gbif_id": 3308775364,
+          "date": "2010-04-30",
+          "year": 2010,
+          "country": "Guatemala",
+          "state_province": "Huehuetenango",
+          "locality": "Jacaltenango",
+          "latitude": 15.680639,
+          "longitude": -91.726228,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
+          "institution_code": "ECOSUR"
+        },
+        {
+          "gbif_id": 4120730590,
+          "date": "2010-04-30",
+          "year": 2010,
+          "country": "Guatemala",
+          "state_province": "Huehuetenango",
+          "locality": "Jacaltenango",
+          "latitude": 15.681,
+          "longitude": -91.726,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "cea5d5d2-acfc-457b-8dd2-10c6013a8b49",
+          "institution_code": "ECOSUR-SC"
+        },
+        {
+          "gbif_id": 3308817450,
+          "date": "2010-05-01",
+          "year": 2010,
+          "country": "Guatemala",
+          "state_province": "Huehuetenango",
+          "locality": "Pinalito",
+          "latitude": 15.6653,
+          "longitude": -91.8618,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "3beabb49-17c6-44eb-b13b-a107515bb653",
+          "institution_code": "ECOSUR"
+        },
+        {
+          "gbif_id": 4120727463,
+          "date": "2010-05-01",
+          "year": 2010,
+          "country": "Guatemala",
+          "state_province": "Huehuetenango",
+          "locality": "Pinalito",
+          "latitude": 15.665,
+          "longitude": -91.862,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "cea5d5d2-acfc-457b-8dd2-10c6013a8b49",
+          "institution_code": "ECOSUR-SC"
         }
       ]
     },
@@ -3726,19 +2290,6 @@
       "total_occurrences": 90,
       "recent_occurrences": [
         {
-          "gbif_id": 5897271109,
-          "date": "2023-08-10T07:55:25",
-          "year": 2023,
-          "country": "Mexico",
-          "state_province": "Yucatán",
-          "locality": null,
-          "latitude": 21.049997,
-          "longitude": -89.666483,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
           "gbif_id": 4512618400,
           "date": "1997",
           "year": 1997,
@@ -3786,6 +2337,19 @@
           "locality": "Ubicado en la desviación de la carretera 180 izamal. - Izamal. Distancia: 2000",
           "latitude": 20.933611,
           "longitude": -89.018056,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "80aee576-f762-11e1-a439-00145eb45e9a",
+          "institution_code": "CCBA-FMVZ-UADY"
+        },
+        {
+          "gbif_id": 1417894594,
+          "date": "1996-02-23",
+          "year": 1996,
+          "country": "Mexico",
+          "state_province": "Yucatan",
+          "locality": "Ubicado en la carr.180 a Valladolid y desvio de la Carr 295 al sur. A 170 km de Mérida. Se colecto a 8, 12 y 15 Km al w-sur. - Valladolid. Distancia: 14000",
+          "latitude": 20.581667,
+          "longitude": -88.265278,
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "80aee576-f762-11e1-a439-00145eb45e9a",
           "institution_code": "CCBA-FMVZ-UADY"
@@ -4070,19 +2634,6 @@
       "total_occurrences": 174,
       "recent_occurrences": [
         {
-          "gbif_id": 5076321435,
-          "date": "2024-05-28",
-          "year": 2024,
-          "country": "Switzerland",
-          "state_province": "Vs",
-          "locality": null,
-          "latitude": 46.34366,
-          "longitude": 7.66595,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
-          "institution_code": null
-        },
-        {
           "gbif_id": 5832902550,
           "date": "2024-05-11",
           "year": 2024,
@@ -4092,19 +2643,6 @@
           "latitude": 46.51807,
           "longitude": 6.29839,
           "basis_of_record": "PRESERVED_SPECIMEN",
-          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5832999395,
-          "date": "2024-05-28",
-          "year": 2024,
-          "country": "Switzerland",
-          "state_province": "Vs",
-          "locality": null,
-          "latitude": 46.34366,
-          "longitude": 7.66595,
-          "basis_of_record": "HUMAN_OBSERVATION",
           "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": null
         },
@@ -4133,6 +2671,32 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": "MHNN"
+        },
+        {
+          "gbif_id": 5832778920,
+          "date": "2019-04-18",
+          "year": 2019,
+          "country": "Switzerland",
+          "state_province": "Vs",
+          "locality": null,
+          "latitude": 46.29891,
+          "longitude": 7.47109,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": "MHNN"
+        },
+        {
+          "gbif_id": 4941314669,
+          "date": "2019-05-01",
+          "year": 2019,
+          "country": "Spain",
+          "state_province": "Castilla y León",
+          "locality": "Graveras de Grulleros. Vega de",
+          "latitude": 42.42113,
+          "longitude": -5.67405,
+          "basis_of_record": "OCCURRENCE",
+          "dataset_key": "73319645-c321-48ed-b923-b3782a203589",
+          "institution_code": "UMU"
         }
       ]
     },
@@ -4143,19 +2707,6 @@
       "family": "Halictidae",
       "total_occurrences": 89,
       "recent_occurrences": [
-        {
-          "gbif_id": 5830605302,
-          "date": "2024-07-26T14:32",
-          "year": 2024,
-          "country": "Austria",
-          "state_province": "Niederösterreich",
-          "locality": null,
-          "latitude": 47.942697,
-          "longitude": 16.035614,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
         {
           "gbif_id": 4937345640,
           "date": "2023-07-07",
@@ -4183,21 +2734,34 @@
           "institution_code": null
         },
         {
-          "gbif_id": 4543625487,
-          "date": "2023-08-03",
+          "gbif_id": 4937331141,
+          "date": "2023-08-10",
           "year": 2023,
-          "country": "France",
-          "state_province": null,
+          "country": "Switzerland",
+          "state_province": "Be",
           "locality": null,
-          "latitude": 43.69885,
-          "longitude": 6.70931,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "1f7cee25-4d59-462b-ac4f-1d2ef8e37902",
+          "latitude": 46.56866,
+          "longitude": 7.2756,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
           "institution_code": null
         },
         {
-          "gbif_id": 4937331141,
-          "date": "2023-08-10",
+          "gbif_id": 4937345081,
+          "date": "2023-08-23",
+          "year": 2023,
+          "country": "Switzerland",
+          "state_province": "Be",
+          "locality": null,
+          "latitude": 46.56866,
+          "longitude": 7.2756,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 4937352329,
+          "date": "2023-08-18",
           "year": 2023,
           "country": "Switzerland",
           "state_province": "Be",
@@ -4501,32 +3065,6 @@
       "total_occurrences": 2406,
       "recent_occurrences": [
         {
-          "gbif_id": 5135500404,
-          "date": "2025-04-24T00:00",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 3547/2 - Berlin / Friedrichshagen",
-          "latitude": 52.498165,
-          "longitude": 13.591744,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
-        },
-        {
-          "gbif_id": 5027398980,
-          "date": "2024-06-24T00:00",
-          "year": 2024,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 3547/1 - Berlin / Oberschöneweide / Karlshorst",
-          "latitude": 52.490757,
-          "longitude": 13.575581,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
-        },
-        {
           "gbif_id": 5832621533,
           "date": "2024-06-03",
           "year": 2024,
@@ -4540,30 +3078,43 @@
           "institution_code": null
         },
         {
-          "gbif_id": 4990665893,
-          "date": "2023-03-31",
-          "year": 2023,
-          "country": "Austria",
+          "gbif_id": 4048314340,
+          "date": "2022-03-18",
+          "year": 2022,
+          "country": "France",
           "state_province": null,
-          "locality": "NPDA",
-          "latitude": 48.136064,
-          "longitude": 16.754802,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "7e871f7c-713d-4cdf-9030-d79e146a144e",
-          "institution_code": "1"
+          "locality": null,
+          "latitude": 44.45654,
+          "longitude": 1.47947,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "8214d308-dc82-46ff-b792-5cb569ee4879",
+          "institution_code": null
         },
         {
-          "gbif_id": 4990666071,
-          "date": "2023-03-31",
-          "year": 2023,
-          "country": "Austria",
+          "gbif_id": 4149370575,
+          "date": "2022-06-02/2022-06-03",
+          "year": 2022,
+          "country": "France",
           "state_province": null,
-          "locality": "NPDA",
-          "latitude": 48.137687,
-          "longitude": 16.733049,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "7e871f7c-713d-4cdf-9030-d79e146a144e",
-          "institution_code": "1"
+          "locality": null,
+          "latitude": 44.45654,
+          "longitude": 1.47947,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "8214d308-dc82-46ff-b792-5cb569ee4879",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 4937357242,
+          "date": "2021-06-22",
+          "year": 2021,
+          "country": "Switzerland",
+          "state_province": "Ti",
+          "locality": null,
+          "latitude": 46.02049,
+          "longitude": 8.82679,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
+          "institution_code": "MCSN"
         }
       ]
     },
@@ -4574,32 +3125,6 @@
       "family": "Halictidae",
       "total_occurrences": 219,
       "recent_occurrences": [
-        {
-          "gbif_id": 5150289408,
-          "date": "2025-04-26T00:00",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 3447/3 - Berlin / Friedrichsfelde / Marzahn",
-          "latitude": 52.510616,
-          "longitude": 13.532735,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
-        },
-        {
-          "gbif_id": 5294845466,
-          "date": "2025-08-13",
-          "year": 2025,
-          "country": "Sweden",
-          "state_province": "Skåne",
-          "locality": "Vitabäck_Ö7, Sk",
-          "latitude": 55.59117,
-          "longitude": 13.77403,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
-          "institution_code": "SLU Artdatabanken"
-        },
         {
           "gbif_id": 5843666574,
           "date": "2025-07-20/2025-08-12",
@@ -4614,30 +3139,43 @@
           "institution_code": "SLU Artdatabanken"
         },
         {
-          "gbif_id": 4905396815,
-          "date": "2024-06-16",
-          "year": 2024,
+          "gbif_id": 4166684997,
+          "date": "2023-05-24T12:30/2023-05-24T15:30",
+          "year": 2023,
           "country": "Sweden",
           "state_province": "Skåne",
-          "locality": "nära Eriksdal, Sk",
-          "latitude": 55.5799,
-          "longitude": 13.79142,
-          "basis_of_record": "HUMAN_OBSERVATION",
+          "locality": "Sånnarna södra, Sk",
+          "latitude": 55.92289,
+          "longitude": 14.25289,
+          "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
           "institution_code": "SLU Artdatabanken"
         },
         {
-          "gbif_id": 5019645996,
-          "date": "2024-06-13T00:00",
-          "year": 2024,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 3447/2 - Hoheneiche / Mehrow",
-          "latitude": 52.54874,
-          "longitude": 13.636317,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
+          "gbif_id": 4135316944,
+          "date": "2023-06-20",
+          "year": 2023,
+          "country": "Sweden",
+          "state_province": "Skåne",
+          "locality": "Norra Åsum, Sk",
+          "latitude": 55.9772,
+          "longitude": 14.13573,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
+          "institution_code": "SLU Artdatabanken"
+        },
+        {
+          "gbif_id": 2808198901,
+          "date": "2020-04-19",
+          "year": 2020,
+          "country": "Sweden",
+          "state_province": "Värmland",
+          "locality": "Tallåsberget, sydslänten, Gustavsberg, Vrm",
+          "latitude": 59.38601,
+          "longitude": 13.45747,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "38b4c89f-584c-41bb-bd8f-cd1def33e92f",
+          "institution_code": "SLU Artdatabanken"
         }
       ]
     },
@@ -4648,32 +3186,6 @@
       "family": "Halictidae",
       "total_occurrences": 47,
       "recent_occurrences": [
-        {
-          "gbif_id": 5027055359,
-          "date": "2024-06-24T00:00",
-          "year": 2024,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 3447/3 - Berlin / Friedrichsfelde / Marzahn",
-          "latitude": 52.506592,
-          "longitude": 13.560497,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
-        },
-        {
-          "gbif_id": 5028379937,
-          "date": "2024-07-01T00:00",
-          "year": 2024,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 3547/2 - Berlin / Friedrichshagen",
-          "latitude": 52.473515,
-          "longitude": 13.621381,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
-        },
         {
           "gbif_id": 3777535459,
           "date": "2021-09-20",
@@ -4712,6 +3224,32 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
           "institution_code": null
+        },
+        {
+          "gbif_id": 5832601068,
+          "date": "2020-05-04",
+          "year": 2020,
+          "country": "Switzerland",
+          "state_province": "Gr",
+          "locality": null,
+          "latitude": 46.28585,
+          "longitude": 9.15802,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 5832619397,
+          "date": "2020-05-04",
+          "year": 2020,
+          "country": "Switzerland",
+          "state_province": "Gr",
+          "locality": null,
+          "latitude": 46.28585,
+          "longitude": 9.15802,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": "MHNN"
         }
       ]
     },
@@ -4945,32 +3483,6 @@
       "total_occurrences": 222,
       "recent_occurrences": [
         {
-          "gbif_id": 4438937168,
-          "date": "2023-07-18T10:50:09",
-          "year": 2023,
-          "country": "Mexico",
-          "state_province": "Veracruz",
-          "locality": null,
-          "latitude": 19.710931,
-          "longitude": -96.408922,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 4431066545,
-          "date": "2023-08-07T10:04",
-          "year": 2023,
-          "country": "Mexico",
-          "state_province": "Veracruz",
-          "locality": null,
-          "latitude": 19.711054,
-          "longitude": -96.40933,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
           "gbif_id": 657590144,
           "date": "1961-06-12",
           "year": 1961,
@@ -5008,6 +3520,32 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "aae308f4-9f9c-4cdd-b4ef-c026f48be551",
           "institution_code": "KU"
+        },
+        {
+          "gbif_id": 657595775,
+          "date": "1961-06-12",
+          "year": 1961,
+          "country": "Mexico",
+          "state_province": "Veracruz",
+          "locality": "Tecolutla",
+          "latitude": 20.4797,
+          "longitude": -97.01,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "aae308f4-9f9c-4cdd-b4ef-c026f48be551",
+          "institution_code": "KU"
+        },
+        {
+          "gbif_id": 657601213,
+          "date": "1961-06-12",
+          "year": 1961,
+          "country": "Mexico",
+          "state_province": "Veracruz",
+          "locality": "Tecolutla, 1 mi N",
+          "latitude": 20.4877,
+          "longitude": -97.0203,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "aae308f4-9f9c-4cdd-b4ef-c026f48be551",
+          "institution_code": "KU"
         }
       ]
     },
@@ -5018,19 +3556,6 @@
       "family": "Andrenidae",
       "total_occurrences": 6,
       "recent_occurrences": [
-        {
-          "gbif_id": 5176927460,
-          "date": "2025-05-24T17:20",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Andalucía",
-          "locality": null,
-          "latitude": 36.925261,
-          "longitude": -2.655441,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
         {
           "gbif_id": 4941335107,
           "date": "2003-04-21",
@@ -5079,6 +3604,19 @@
           "locality": "Cuenca",
           "latitude": 40.062,
           "longitude": -2.121,
+          "basis_of_record": "OCCURRENCE",
+          "dataset_key": "73319645-c321-48ed-b923-b3782a203589",
+          "institution_code": "UMU"
+        },
+        {
+          "gbif_id": 4941344720,
+          "date": "1934",
+          "year": 1934,
+          "country": "Spain",
+          "state_province": "Comunidad Valenciana",
+          "locality": "Godelleta",
+          "latitude": 39.413,
+          "longitude": -0.735,
           "basis_of_record": "OCCURRENCE",
           "dataset_key": "73319645-c321-48ed-b923-b3782a203589",
           "institution_code": "UMU"
@@ -6212,19 +4750,6 @@
       "total_occurrences": 86,
       "recent_occurrences": [
         {
-          "gbif_id": 2843022875,
-          "date": "2017-07-25",
-          "year": 2017,
-          "country": "France",
-          "state_province": "Alpes-Maritimes (06)",
-          "locality": "Saint-Auban",
-          "latitude": 43.8562,
-          "longitude": 6.7227,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
-        {
           "gbif_id": 3003487742,
           "date": "2017-08-07",
           "year": 2017,
@@ -6235,32 +4760,6 @@
           "longitude": 7.53606,
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 3003490785,
-          "date": "2017-08-07",
-          "year": 2017,
-          "country": "Switzerland",
-          "state_province": "Vs",
-          "locality": null,
-          "latitude": 46.29887,
-          "longitude": 7.53598,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5832982414,
-          "date": "2017-08-07",
-          "year": 2017,
-          "country": "Switzerland",
-          "state_province": "Vs",
-          "locality": null,
-          "latitude": 46.29887,
-          "longitude": 7.53598,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": null
         },
         {
@@ -6275,6 +4774,45 @@
           "basis_of_record": "PRESERVED_SPECIMEN",
           "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
           "institution_code": null
+        },
+        {
+          "gbif_id": 3003313108,
+          "date": "2014-07-31",
+          "year": 2014,
+          "country": "Switzerland",
+          "state_province": "Vs",
+          "locality": null,
+          "latitude": 46.29887,
+          "longitude": 7.53598,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "f9ffbc32-a118-43b3-aee8-69f0776b3161",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 5832817298,
+          "date": "2014-07-31",
+          "year": 2014,
+          "country": "Switzerland",
+          "state_province": "Vs",
+          "locality": null,
+          "latitude": 46.29887,
+          "longitude": 7.53598,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "0a0b594e-0c5e-4766-a5d7-66043160de5f",
+          "institution_code": null
+        },
+        {
+          "gbif_id": 4941337943,
+          "date": "2004-09-13",
+          "year": 2004,
+          "country": "Spain",
+          "state_province": "Cataluña",
+          "locality": null,
+          "latitude": 42.14,
+          "longitude": 2.24,
+          "basis_of_record": "OCCURRENCE",
+          "dataset_key": "73319645-c321-48ed-b923-b3782a203589",
+          "institution_code": "UMU"
         }
       ]
     },
@@ -6408,69 +4946,69 @@
       "total_occurrences": 424,
       "recent_occurrences": [
         {
-          "gbif_id": 5008706286,
-          "date": "2025-01-01",
+          "gbif_id": 5886524615,
+          "date": "2025-05-13",
           "year": 2025,
           "country": "Spain",
-          "state_province": "Santa Cruz de Tenerife",
-          "locality": "Tenerife - Anaga",
-          "latitude": 28.569851,
-          "longitude": -16.158693,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
+          "state_province": null,
+          "locality": "Parador",
+          "latitude": 28.224336,
+          "longitude": -16.619509,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "200df665-a0f4-4802-87f8-b238dd8c0591",
+          "institution_code": "DZUL"
         },
         {
-          "gbif_id": 5008813063,
-          "date": "2025-01-10",
+          "gbif_id": 5886524706,
+          "date": "2025-05-08",
           "year": 2025,
           "country": "Spain",
-          "state_province": "Las Palmas",
-          "locality": "Gran Canaria - Mogán",
-          "latitude": 27.81875,
-          "longitude": -15.751097,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
+          "state_province": null,
+          "locality": "Fasnia",
+          "latitude": 28.282696,
+          "longitude": -16.516125,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "200df665-a0f4-4802-87f8-b238dd8c0591",
+          "institution_code": "DZUL"
         },
         {
-          "gbif_id": 5167188686,
-          "date": "2025-01-20T15:03:24Z",
+          "gbif_id": 5886524889,
+          "date": "2025-05-08",
           "year": 2025,
           "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.095634,
-          "longitude": -15.788246,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "state_province": null,
+          "locality": "Fasnia",
+          "latitude": 28.282696,
+          "longitude": -16.516125,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "200df665-a0f4-4802-87f8-b238dd8c0591",
+          "institution_code": "DZUL"
         },
         {
-          "gbif_id": 5167923913,
-          "date": "2025-01-11T11:30Z",
+          "gbif_id": 5886525337,
+          "date": "2025-05-08",
           "year": 2025,
           "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.489337,
-          "longitude": -16.108419,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "state_province": null,
+          "locality": "Fasnia",
+          "latitude": 28.282696,
+          "longitude": -16.516125,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "200df665-a0f4-4802-87f8-b238dd8c0591",
+          "institution_code": "DZUL"
         },
         {
-          "gbif_id": 5063805678,
-          "date": "2025-02-03T17:00:53Z",
+          "gbif_id": 5886525422,
+          "date": "2025-05-13",
           "year": 2025,
           "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 27.8967,
-          "longitude": -15.726608,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "state_province": null,
+          "locality": "Parador",
+          "latitude": 28.224336,
+          "longitude": -16.619509,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "200df665-a0f4-4802-87f8-b238dd8c0591",
+          "institution_code": "DZUL"
         }
       ]
     },
@@ -6554,73 +5092,7 @@
       "iucn_category": "VU",
       "family": "Colletidae",
       "total_occurrences": 146,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5076844245,
-          "date": "2025-01-19T12:24:21Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.2018,
-          "longitude": -16.898586,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5087560095,
-          "date": "2025-01-26T10:16Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.081397,
-          "longitude": -16.538612,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5077150528,
-          "date": "2025-02-16T10:41Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.12199,
-          "longitude": -16.572807,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5087198726,
-          "date": "2025-02-16T10:03Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.177146,
-          "longitude": -16.575279,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5087227266,
-          "date": "2025-02-23T11:13Z",
-          "year": 2025,
-          "country": "Spain",
-          "state_province": "Islas Canarias",
-          "locality": null,
-          "latitude": 28.056051,
-          "longitude": -16.652576,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        }
-      ]
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Euryglossina proctotrypoides Cockerell, 1913",
@@ -6630,69 +5102,69 @@
       "total_occurrences": 196,
       "recent_occurrences": [
         {
-          "gbif_id": 5133530894,
-          "date": "2025-01-09T11:20",
-          "year": 2025,
+          "gbif_id": 3364431341,
+          "date": "2021-03-22",
+          "year": 2021,
           "country": "Australia",
           "state_province": "Victoria",
-          "locality": null,
-          "latitude": -37.270591,
-          "longitude": 144.307428,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "locality": "11km E Marlo",
+          "latitude": -37.7966,
+          "longitude": 148.55,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "39905320-6c8a-11de-8226-b8a03c50a862",
+          "institution_code": "NMV"
         },
         {
-          "gbif_id": 5133640042,
-          "date": "2025-01-20T10:46",
-          "year": 2025,
+          "gbif_id": 3364400499,
+          "date": "2021-04-07",
+          "year": 2021,
           "country": "Australia",
           "state_province": "Victoria",
-          "locality": null,
-          "latitude": -37.270625,
-          "longitude": 144.307435,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "locality": "10km N Omeo",
+          "latitude": -37.0407,
+          "longitude": 147.643,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "39905320-6c8a-11de-8226-b8a03c50a862",
+          "institution_code": "NMV"
         },
         {
-          "gbif_id": 5036895302,
-          "date": "2024-12-16T10:55",
-          "year": 2024,
+          "gbif_id": 3364407524,
+          "date": "2021-04-07",
+          "year": 2021,
           "country": "Australia",
           "state_province": "Victoria",
-          "locality": null,
-          "latitude": -37.225305,
-          "longitude": 144.309365,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "locality": "10km N Omeo",
+          "latitude": -37.0407,
+          "longitude": 147.643,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "39905320-6c8a-11de-8226-b8a03c50a862",
+          "institution_code": "NMV"
         },
         {
-          "gbif_id": 5037145207,
-          "date": "2024-12-25T14:00",
-          "year": 2024,
+          "gbif_id": 3364434713,
+          "date": "2021-04-07",
+          "year": 2021,
           "country": "Australia",
           "state_province": "Victoria",
-          "locality": null,
-          "latitude": -37.225317,
-          "longitude": 144.309368,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "locality": "10km N Omeo",
+          "latitude": -37.0407,
+          "longitude": 147.643,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "39905320-6c8a-11de-8226-b8a03c50a862",
+          "institution_code": "NMV"
         },
         {
-          "gbif_id": 5187511493,
-          "date": "2024-12-19T12:52",
-          "year": 2024,
+          "gbif_id": 4134504223,
+          "date": "2018-12-06",
+          "year": 2018,
           "country": "New Zealand",
-          "state_province": "Auckland",
-          "locality": null,
-          "latitude": -36.862821,
-          "longitude": 174.721888,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "state_province": null,
+          "locality": "Taurapa Station, Hawkes Bay",
+          "latitude": -37.7161,
+          "longitude": 175.9831,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "38e0b5be-be0a-4948-ad2e-fb009652c5b3",
+          "institution_code": "MWLR"
         }
       ]
     },
@@ -6852,19 +5324,6 @@
       "total_occurrences": 35,
       "recent_occurrences": [
         {
-          "gbif_id": 4564351365,
-          "date": "2015-06-17",
-          "year": 2015,
-          "country": "France",
-          "state_province": null,
-          "locality": null,
-          "latitude": 43.27299,
-          "longitude": 3.29713,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "0759e97c-e4c1-4206-86a2-d128cb292599",
-          "institution_code": null
-        },
-        {
           "gbif_id": 4568293020,
           "date": "2015-06-17",
           "year": 2015,
@@ -6915,6 +5374,19 @@
           "basis_of_record": "OCCURRENCE",
           "dataset_key": "73319645-c321-48ed-b923-b3782a203589",
           "institution_code": "UMU"
+        },
+        {
+          "gbif_id": 4568348009,
+          "date": "2012-06-14",
+          "year": 2012,
+          "country": "France",
+          "state_province": null,
+          "locality": null,
+          "latitude": 43.2486,
+          "longitude": 3.29119,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "cc988c4f-85da-4a4c-8292-1ff49e3f0807",
+          "institution_code": null
         }
       ]
     },
@@ -7071,74 +5543,8 @@
       "species_key": "1348923",
       "iucn_category": "NT",
       "family": "Colletidae",
-      "total_occurrences": 895,
-      "recent_occurrences": [
-        {
-          "gbif_id": 5288428976,
-          "date": "2025-08-16",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Schleswig-Holstein",
-          "locality": "Friedrichskoog",
-          "latitude": 54.001011,
-          "longitude": 8.876115,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5716632078,
-          "date": "2025-08-19",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": "Niedersachsen",
-          "locality": "WTM Spiekeroog",
-          "latitude": 53.775947,
-          "longitude": 7.773656,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 5794836263,
-          "date": "2025-09-06T00:00",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 3625/4 - Sehnde / Ilten b. Hannover",
-          "latitude": 52.325111,
-          "longitude": 9.971863,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
-        },
-        {
-          "gbif_id": 5828756641,
-          "date": "2025-09-06T09:54:23",
-          "year": 2025,
-          "country": "United Kingdom of Great Britain and Northern Ireland",
-          "state_province": "England",
-          "locality": null,
-          "latitude": 52.807114,
-          "longitude": 0.776468,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5836671129,
-          "date": "2025-09-07T00:00",
-          "year": 2025,
-          "country": "Germany",
-          "state_province": null,
-          "locality": "TK25 Blatt 1748/1 - Rügen / Thiessow / Groß Zicker",
-          "latitude": 54.28651,
-          "longitude": 13.690528,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "6ac3f774-d9fb-4796-b3e9-92bf6c81c084",
-          "institution_code": "NABU|naturgucker"
-        }
-      ]
+      "total_occurrences": 900,
+      "recent_occurrences": []
     },
     {
       "scientific_name": "Hylaeus crassanus (Warncke, 1972)",
@@ -7370,69 +5776,30 @@
       "total_occurrences": 30,
       "recent_occurrences": [
         {
-          "gbif_id": 4893229212,
-          "date": "2024-03-11T01:29",
-          "year": 2024,
-          "country": "Australia",
-          "state_province": "Australian Capital Territory",
-          "locality": "Hall, ACT",
-          "latitude": -35.170415,
-          "longitude": 149.06679,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "7ebef267-9d72-4c21-a276-cc84281a8590",
-          "institution_code": null
-        },
-        {
-          "gbif_id": 4993846024,
-          "date": "2024-11-29T13:12",
-          "year": 2024,
+          "gbif_id": 3364437671,
+          "date": "2021-04-07",
+          "year": 2021,
           "country": "Australia",
           "state_province": "Victoria",
-          "locality": null,
-          "latitude": -37.270195,
-          "longitude": 144.308173,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "locality": "20km E Dinner Plain",
+          "latitude": -37.0952,
+          "longitude": 147.421,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "39905320-6c8a-11de-8226-b8a03c50a862",
+          "institution_code": "NMV"
         },
         {
-          "gbif_id": 4994259008,
-          "date": "2024-11-26T11:20",
-          "year": 2024,
+          "gbif_id": 3070850367,
+          "date": "2020-11-15",
+          "year": 2020,
           "country": "Australia",
-          "state_province": "Victoria",
+          "state_province": "New South Wales",
           "locality": null,
-          "latitude": -37.269884,
-          "longitude": 144.307705,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5007414577,
-          "date": "2024-12-18T15:07",
-          "year": 2024,
-          "country": "Australia",
-          "state_province": "Victoria",
-          "locality": null,
-          "latitude": -37.27068,
-          "longitude": 144.306968,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
-        },
-        {
-          "gbif_id": 5087113665,
-          "date": "2024-12-15T11:36",
-          "year": 2024,
-          "country": "Australia",
-          "state_province": "Victoria",
-          "locality": null,
-          "latitude": -37.225321,
-          "longitude": 144.309356,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-          "institution_code": "iNaturalist"
+          "latitude": -35.568333,
+          "longitude": 149.2911,
+          "basis_of_record": "PRESERVED_SPECIMEN",
+          "dataset_key": "dce8feb0-6c89-11de-8225-b8a03c50a862",
+          "institution_code": "AM"
         }
       ]
     },
@@ -7517,19 +5884,6 @@
       "family": "Colletidae",
       "total_occurrences": 2,
       "recent_occurrences": [
-        {
-          "gbif_id": 5282915944,
-          "date": "2024-05-27",
-          "year": 2024,
-          "country": "Albania",
-          "state_province": "Kukës",
-          "locality": "Lugina e Valbones NP",
-          "latitude": 42.453198,
-          "longitude": 19.875331,
-          "basis_of_record": "HUMAN_OBSERVATION",
-          "dataset_key": "8a863029-f435-446a-821e-275f4f641165",
-          "institution_code": null
-        },
         {
           "gbif_id": 658427261,
           "date": "1982-06-28",

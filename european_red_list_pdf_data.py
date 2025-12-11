@@ -9,6 +9,7 @@ from datetime import datetime
 from tabula.io import read_pdf
 import ipdb
 from collections import defaultdict
+import jpype
 
 TARGET_STATUSES = {'CR', 'EN', 'VU', 'NT'}
 ALL_STATUSES = {'CR', 'EN', 'VU', 'NT', 'DD', 'LC'}
