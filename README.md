@@ -52,7 +52,7 @@ dliddell@MacBook-Air-2 nature_serve % python natureserve_api_data.py
 * Build the backend first, then build a frontend to represent the profile of each bee.
 * Possible fields to add for each bee:
   + Preferred flower genus, species, family.
-  + Oligolectic or Polylectic (Specialist or Generalist pollinator)
+  + Oligolectic, Polylectic, Monolectic (Specialist, Generalist, or Single Species pollination preference)
   + Nesting preference (cavity, ground, mud, leaves, wood, stone)
   + Habitat
   + What else should I add?
